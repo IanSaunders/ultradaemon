@@ -1,4 +1,4 @@
-# Endurance++
+# Endurance++2
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
