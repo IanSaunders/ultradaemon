@@ -118,7 +118,7 @@ The Brutual team put together a very well oiled machine, kit-check, pre-race-bri
 
 ***
 
-#### Start &rarr; CP4  <small>(0 to 42.1kms)</small>
+#### Start &rarr; CP4  <small>(0 to 47.8kms)</small>
 
 Race start was pushed back by 15mins due to a delayed min-van, but before we knew it were were off.
 
@@ -171,7 +171,7 @@ We uneventfully pushed through Check point 3 and looked forward to finishing the
 
 ***
 
-### CP4 &rarr; CP6  <small>(42.1 to 59.6kms)</small>
+### CP4 &rarr; CP6  <small>(47.8 to 57.2kms)</small>
 
 After a light bite of pasta and some flapjacks we hit the trail to do the island loop. The race stewards indicated we could get around in daylight/dusk and as it was a lot cooler we decided to see what we could do. Not 10minutes out of HQ sam dropped a bombshell. He would most likely drop out at CP6, his stomach was not doing great and he didn't have another 80 odd Kilometres in him. I was surprised as though sam hadn't been in the best of spirits I didn't think it has been anyway near that bad. I just told him to see how he felt and make up his mind when we get there. After another 10mins or so Sam dropped off to visit Mother Nature, I pressed on and he caught up with me a few minutes later. He mentioned he had a little vomit and felt a touch better - too much sugar and other junk. We hit CP5, grabbed a cheese and pickle sandwich (delicious) and started to feel better. 
 
@@ -185,9 +185,9 @@ The only good news was Sam was feeling good, a quick pit stop, some soup, a chan
 
 ***
 
-### CP6 &rarr; CP7  <small>(59.6 to 77.6kms)</small>
+### CP6 &rarr; CP7  <small>(57.2 to 77kms)</small>
 
-The next section was a pretty long 18kms. I feel like this section is designed for a few reasons:
+The next section was a pretty long 17kms. I feel like this section is designed for a few reasons:
 
 1. Allow runners to bank some time before the hills. It's pretty flat
 2. Weed out those who would not make the night
@@ -197,7 +197,7 @@ It was interesting to see some native English wildlife, the clubs and bars were 
 
 ***
 
-### CP7 &rarr; CP9 <small>(77.6 to 98.6kms)</small>
+### CP7 &rarr; CP9 <small>(77 to 98.2kms)</small>
 
 It's 30 minutes past midnight and little do we know it, but the race is just about to being. The following two check-points melded into a long arduous siege against mother nature. The rolling hills were too steep to run up and were too dangerous  and steep to attempt to run down. This meant picking our way carefully up and down each unrelenting hill. As soon as you hit a flat, at the base or roof of a hill we would hit the gas as jog but as soon as you got going you hit another steep section. Highlights of this section included:
 
@@ -210,7 +210,7 @@ As we pulled up to the check-point, we saw <a href="http://www.brutalevents.co.u
 
 ***
 
-### CP9 &rarr; CP10 <small>(9.6 to 108.2kms)</small>
+### CP9 &rarr; CP10 <small>(98.2 to 107.9kms)</small>
 
 The first thing that happened when we pulled up to the checkpoint was that my left ankle clicked back in position. Pain instantly gone, absolute relief. 
 
@@ -224,7 +224,7 @@ The Oner always has something up it's sleeve and is quite relentless with giving
 
 ***
 
-### CP10 &rarr; Finish <small>(108.2 to 131.9kms)</small>
+### CP10 &rarr; Finish <small>(107.9 to 131.9kms)</small>
 
 As we pulled away from the second to last check-point we started making a few calculations on getting to the end. After our detour earlier in the race, and the hills being a touch tougher than expected our 21 hour time was blown. We had some confidence in finishing, but wanted a good buffer for the last check-point. We felt like we had pulled some time back from CP9 &rarr; CP10 but still needed a bit more time.
 
