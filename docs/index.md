@@ -122,7 +122,7 @@ The Brutual team put together a very well oiled machine, kit-check, pre-race-bri
 
 Race start was pushed back by 15mins due to a delayed min-van, but before we knew it were were off.
 
-Our strategy revolved around banking a bit of time in the first few marathons so we set off at a fair clip, the start was also a downhill section so why not? As we hit the first proper hill we enjoyed a walk with views, spirits were high.
+Our strategy revolved around banking a bit of time in the first couple marathons so we set off at a fair clip, the start was also a downhill section so why not? As we hit the first proper hill we enjoyed a walk with views, spirits were high.
 
 
  <div class="row">
