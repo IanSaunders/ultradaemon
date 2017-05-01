@@ -169,6 +169,12 @@ We uneventfully pushed through Check point 3 and looked forward to finishing the
 
 > side note: before the run Sam and I had discussed aid station strategy. I am very pro the briefest of stops and avoid the temptation to linger. Sam preferred a slightly more measured approach. With 11 aid stations, 3min stops  equate to over half an hour. In the end we came to some middle ground which worked well. We were also careful not to forgo water with this heat.
 
+<video width="620" height="440" controls>
+  <source src="/imgs/oner_2017/cp4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
 ***
 
 ### CP4 &rarr; CP6  <small>(47.8 to 57.2kms)</small>
@@ -182,6 +188,10 @@ As we admired the high cliffs on our left we began look for the sharp left turn 
 Over 40mins and an extra 2.2kms had been run. Things were going to get tight.
 The only good news was Sam was feeling good, a quick pit stop, some soup, a change of shoes, 20mins or so and we were back on the road!
 
+<video width="620" height="440" controls>
+  <source src="/imgs/oner_2017/cp5-6.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ***
 
@@ -207,6 +217,12 @@ It's 30 minutes past midnight and little do we know it, but the race is just abo
 It was whilst racing the other two runners that we made a minor error and ran about 100m in the wrong direction, running back and seeing them far-off in the distance (400m now) was quite disheartening. Due to tiredness on both parties Sam suddenly lost a little faith in my route finding skills so I made an extra effort to not error on the next up-and-down section, we were only a couple of kms out from the next aid station and not feeling too terrible. Whilst concentrating on the map I managed to put my left leg into a hole and twisted my ankle, ouch! Sam asked if I was okay, I replied; "I'm fine, this hill is not going to walk itself". I worried that I wouldn't be able to keep the pace up to meet the various CP cut-offs. As we neared the checkpoint I decided to keep this to myself and just see what happens.
 
 As we pulled up to the check-point, we saw <a href="http://www.brutalevents.co.uk/d_miller_brutal_blog.html">*two other runners*</a>.
+
+
+<video width="620" height="440" controls>
+  <source src="/imgs/oner_2017/cp7-9.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ***
 
@@ -262,6 +278,14 @@ done
     </div>
   </div>
 </div>
+
+***
+
+
+<video width="620" height="440" controls>
+  <source src="/imgs/oner_2017/cp4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 ***
