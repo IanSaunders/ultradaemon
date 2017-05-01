@@ -216,11 +216,11 @@ The first thing that happened when we pulled up to the checkpoint was that my le
 
 The second thing was that we had a quick chat with other two runners, we had been leapfrogging for the last 2 checkpoints. The first was sitting on a chair at the checkpoint and looked like he wasn't having a great time, the checkpoint stewards were giving him a little pep talk, though the words were lost on us. After chatting with the second runner about our little misadventure and him mentioning he ran the course before we decided to join up and run together. We were assured that the final two checkpoints and finish were flatter. In retrospect, _less hilly_ may have been the right term, it was by no-means flat.
 
-The four of us set off on a mission to finish this thing. We hadn't come this far to not finish. The second runner, who introduced himself as Rory warned us that there was a painful steep staircase straight off the bat. The first runner, Dave, kept mum and had his poles at the ready. We started up the stairs, each runner battling his own demons to make the climb. Dave was battling and his legs did not want to ascend the hills. After we reached the top of the staircase we looked back and Dave was no longer in view. Rory shouted down the hill but we head no reply, we decided to press on. Sadly our expectation was that Dave's race was over, the cut-off times were now quite tight and would require a massive mental commitment to finish. We all hoped that we would see him at the finish, but acknowledged this was highly unlikely.
+The four of us set off on a mission to finish this thing. We hadn't come this far to not finish. The second runner, who introduced himself as Rory warned us that there was a painful steep staircase straight off the bat. The first runner, Dave, kept mum and had his poles at the ready. We started up the stairs, each runner battling his own demons to make the climb. Dave was battling and his legs did not want to ascend the hills. After we reached the top of the staircase we looked back and Dave was no longer in view. Rory shouted down the hill but we heard no reply, we decided to press on. Sadly our expectation was that Dave's race was over, the cut-off times were now quite tight and would require a massive mental commitment to finish. We all hoped that we would see him at the finish, but acknowledged this was highly unlikely.
 
 We had never met Rory before but he regaled us with his previous Oner attempt where a mistimed snooze cost him the finish, a reminder of how keeping up a good consistent time was imperative. The three of us worked like a machine pushing through the check-point. Rory had a slightly different running style to Sam and I but we made it work for 90% of the CP, he pulled away towards the end as we couldn't quite keep up, but met him again at CP10 for a bite to eat.
 
-The Oner always has something up it's sleeve and is quite relentless with giving and then taking away. For example, we had got used to each check-point being about 12kms, after Rory pulled away we checked out time sheet and discovered this checkpoint to only be 9.6km long! We were only 500m away, the lighthouse! A few minutes later, after turning a corner, we found that between us was massive descent and then a painful staircase. A minutes silence and we begrudgingly made our way down-and-up.
+The Oner always has something up it's sleeve and is quite relentless with giving and then taking away. For example, we had got used to each check-point being about 12kms, after Rory pulled away we checked our time sheet and discovered this checkpoint to only be 9.6km long! We were only 500m away, the lighthouse! A few minutes later, after turning a corner, we found that between us and the end was a massive descent and then a painful staircase. A minutes silence and we begrudgingly made our way down-and-up.
 
 ***
 
@@ -240,7 +240,7 @@ done
       <a href="/imgs/oner_2017/end.jpg">
         <img src="/imgs/oner_2017/end.jpg" alt="CSV Planning" style="max-height:400px">
         <div class="caption text-center">
-          <p>Yay, meals! No, I am not that short :)</p>
+          <p>Yay, medals! No, I am not that short :)</p>
         </div>
       </a>
     </div>
