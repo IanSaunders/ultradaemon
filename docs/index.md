@@ -120,7 +120,7 @@ The Brutal team put together a very well oiled machine, kit-check, pre-race-brie
 
 #### Start &rarr; CP4  <small>(0 to 47.8kms)</small>
 
-Race start was pushed back by 15mins due to a delayed min-van, but before we knew it were were off.
+Race start was pushed back by 15mins due to a delayed min-van, but before we knew it we were off.
 
 Our strategy revolved around banking a bit of time in the first couple of marathons so we set off at a fair clip. The start was also a downhill section, so why not? As we hit the first proper hill we enjoyed a walk with views, and spirits were high.
 
@@ -278,15 +278,6 @@ Fin.
     </div>
   </div>
 </div>
-
-***
-
-
-<video width="620" height="440" controls>
-  <source src="/imgs/oner_2017/cp4.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 
 ***
 
