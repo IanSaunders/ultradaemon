@@ -33,7 +33,7 @@ Having finished the 46 mile (75 km) <a href="http://www.beaconsultra.com/" targe
 
 > TLDR: Eat more, drink more, use electrolytes and smother yourself in bodyglide.
 
-Pain is quickly forgotten, and it wasn't long before I dropped a somewhat (very) drunken text to my friend Sam inquiring if he would be interested in running two ultra races in 2017, the Oner being a qualifier for the other. Sam replied with *maybe* and I forwarded him my competed sign up email as encouragement. A few weeks later he came to his senses (got equally drunk) and signed-up for both runs too.
+Pain is quickly forgotten, and it wasn't long before I dropped a somewhat (very) drunken text to my friend Sam inquiring if he would be interested in running two ultra races in 2017, the Oner being a qualifier for the other. Sam replied with *maybe* and I forwarded him my completed sign up email as encouragement. A few weeks later he came to his senses (got equally drunk) and signed-up for both runs too.
 
 Fast forward a few months and it was time to put on our running shoes and trek out to my old rock climbing haunting ground, <a href="https://www.ukclimbing.com/logbook/book.php?id=19" target="_blank">Swanage</a>, and do battle with some slightly less vertical pitches.
 
