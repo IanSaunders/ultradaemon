@@ -57,7 +57,7 @@ Fast forward a few months and it was time to put on our running shoes and trek o
 
 After a hectic few weeks of work and an extremely spotty training schedule it dawned on Sam and I that we were perhaps out of our depth with the step-up in distance. It was nearly double the furthest distance we had done before and neither of us had ever run through the night.
 
-After reading a large amount of race reports our concerns were confirmed; this was not going to be as easy as 33 back-to-back Park Runs. Our first attempt to come up with a game plan involved analyzing previous race results, theoretical run performance and elevation change. The result was the below monstrosity that only an accountant could love:
+After reading a large amount of race reports our concerns were confirmed; this was not going to be as easy as 26 back-to-back Park Runs. Our first attempt to come up with a game plan involved analyzing previous race results, theoretical run performance and elevation change. The result was the below monstrosity that only an accountant could love:
 
  <div class="row">
   <div class="col-md-12">
