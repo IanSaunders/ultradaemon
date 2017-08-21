@@ -1,6 +1,6 @@
-# Run (in a) Forest, run!
+# Running 2017
 
-## North Downs Way 100 2017
+## North Downs Way 100
 
 ***
 
@@ -443,7 +443,7 @@ Thanks to my amazing pacing team and the fantastic Centurion team for a memorabl
 FIN.
 </pre>
 
-## Oner 2017
+## Oner
 
 ***
 
