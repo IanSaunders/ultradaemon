@@ -29,7 +29,7 @@ Result    :  Finished in 23:40:59 hours
 
 #### Background
 
-Sam and I had been foolishly working our way up the minimum requirements to run a 100 mile race.s Marathon, 46 miles, 82 miles and now finally - The North Day Way 100 (miles)!
+Sam and I had been foolishly working our way up the minimum requirements to run a 100 mile race. Marathon, 46 miles, 82 miles and now finally - The North Day Way 100 (miles)!
 
 To start, let's get excuses out the way. Two weeks after the Oner I ran a 35 km marathon training run with a friend, Martin. My body finished the run under duress and retaliated by gifting a tweaked right knee - the net-effect was no running for the next 6 weeks, bummer.
 
@@ -195,7 +195,7 @@ In general the first 40 km was pretty flat, as per advice at the race briefing a
 #### CP3 &rarr; CP8  <small>(39.5 to 96.2kms)</small>
 ###### Aid stations: Reigate Hill, Caterham, Botley Hill, Knockholt Pound, Wrotham
 
-After stepping across the very scenic river cross we launched ourselves up Box Hill. Having heard so much about Box Hill, and memories of the soul destroying hills during the Oner, I was pleasantly surprised with the gradient and distance - in no time and limited heart-rate elevation we were at the top enjoying the lovely views. An unexpected shout at the top and a work colleague, Aubone, was there cheering us on! A handshake, quick photo and off we shot.
+After stepping across the very scenic river stones we launched ourselves up Box Hill. Having heard so much about Box Hill, and memories of the soul destroying hills during the Oner, I was pleasantly surprised with the gradient and distance - in no time and limited heart-rate elevation we were at the top enjoying the lovely views. An unexpected shout at the top and a work colleague, Aubone, was there cheering us on! A handshake, quick photo and off we shot.
 
 <div class="row">
   <div class="col-md-12">
@@ -288,14 +288,14 @@ As I pulled into aid station 8 there was a nice surprise, my crew were saunterin
 
 Before the race I had warned the crew that I would be in-and-out of aid stations in a minute - they were ready and rearing to go. Much to their amusement, I needed a good 5 minutes to compose myself at CP8, the pace had been pretty high and running out of water had taken a toll. I proceeded to drink 1 cup of water and 2 cups of coke and then ate half an orange, a handful of grapes, and 1 sandwich! I was FINALLY ready to go. Tanya and I waved farewell to the NDW100-Crew, and we were back on the trail.
 
-Having run for 11ish hours at this point I was perhaps a little less chatty than Tanya expected but she did a fantastic job running with me. When she joined it was still quite warm, but the sun slowly set and we had to turn our head-torches on. This section of the course was very runnable and we kept the pace high. Apart from a run-in with a tree and Tanya taking a couple of tumbles there were no major mishaps to report. Tanya got to experience her first transition from sunshine to night-time running.
+Having run for 11ish hours at this point I was perhaps a little less chatty than Tanya expected but she did a fantastic job running with me. When she joined it was still quite warm, as the sun slowly set and we had to turn our head-torches on. This section of the course was very runnable and we kept the pace high. Apart from a run-in with a tree and Tanya taking a couple of tumbles there were no major mishaps to report. Tanya got to experience her first transition from sunshine to night-time running.
 
 <video controls>
   <source src="/imgs/ndw100_2017/tanya.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-After Tanyas stint I was joined by a very energetic Martin, fresh from his Copenhagen Marathon, he helped me ascend Bluebell Hill - unfortunately for Martin he joined me at a pretty low point of the race. Some confusion over check-points and the high-pace of the previous section had sapped some of my mental strength. I was fighting to keep the pace up and push myself, I had also been running for around 16 hours at this point, I was very quiet and inside my own world for most of the section. Everyone talks about Box Hill and Detling when discussing the NDW100, I am going to add Bluebell Hill onto that list. It's long, annoying and not much fun. Furthermore, you know this is just a prelude to Detling. I didn't like that hill one bit - good riddance!
+After Tanya's stint I was joined by a very energetic Martin, fresh from his Copenhagen Marathon, he helped me ascend Bluebell Hill - unfortunately for Martin he joined me at a pretty low point of the race. Some confusion over check-points and the high-pace of the previous section had sapped some of my mental strength. I was fighting to keep the pace up and push myself, I had also been running for around 16 hours at this point, I was very quiet and inside my own world for most of the section. Everyone talks about Box Hill and Detling when discussing the NDW100, I am going to add Bluebell Hill onto that list. It's long, annoying and not much fun. Furthermore, you know this is just a prelude to Detling. I didn't like that hill one bit - good riddance!
 
 As we arrived at the Bluebell Hill aid station at 11pm I was surprised to see that Sam had returned to cheer me on! After that horrendous hill it helped raise my spirits to see my usual partner in running crime. He also pointed out that I only had one marathon to go, and 7 hours to get under 24 hours. This was 30 minutes less than the pacing chart had budgeted for, and as such I was under no illusions that a 7-hour marathon, with the hardest hills still to come, was going to be touch-and-go.
 
