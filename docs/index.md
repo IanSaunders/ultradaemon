@@ -1,4 +1,4 @@
-# Running and stuff
+# Run (in a) Forest, run!
 
 ## North Downs Way 100 2017
 
@@ -22,56 +22,60 @@ Result    :  Finished in 23:40:59 hours
              37th place 
              147 finishers
              229 starters
-             0 Toenails lost
+             1 drop bag forgotten
 ```
 
 ***
 
 #### Background
 
-After being humbled by the Oner the last 3 months have been spent preparing for the NDW100, my first 100 mile race.
+Sam and I had been foolishly working our way up the minimum requirements to run a 100 mile race.s Marathon, 46 miles, 82 miles and now finally - The North Day Way 100 (miles)!
 
-Shortly after the Oner Sam and I helped another friend, Martin, with his final pre-marathon run. Before this _short_ 35k run I wondered it was perhaps too soon, but what the hell, it was only 35k. My body finished the run under duress and retaliated by gifting a tweaked right knee - meaning no running for the next 6 weeks, bummer.
+To start, let's get excuses out the way. Two weeks after the Oner I ran a 35 km marathon training run with a friend, Martin. My body finished the run under duress and retaliated by gifting a tweaked right knee - the net-effect was no running for the next 6 weeks, bummer.
 
-> Even if you feel recovered, gradually increase the distance
+> Future self: Even if you feel recovered, gradually increase the distance
 
-Nevertheless I managed to get in a decent amount of swimming and cycling whilst the leg was recovering. The Oner had been a brutal slog and I hoped the NDW100 could be a little less painful - I decided to focus on the following areas:
+Unfortunately, I had a 100 mile race coming up! Right then, Plan B: Get in a decent amount of cross-training whilst the legs recover. The Oner had been a brutal slog, and I hoped the NDW100 could be a little less painful - I decided to focus on the following training areas:
 
-1. Need to work on speed and strength
-1. Quads get hammered by the hills
+1. Need to work on speed
+1. Quads - they get hammered by the hills
 1. Continue work on nutrition
 
-For quads I started cranking out long bike rides around Surrey enjoying crushing/being crushed by the hills. Ironically, Box Hill was one of the section we would be running! Perhaps it would be easier on foot than on a bike?
+For quads, I began cycling around Surrey every Sunday. Box Hill, a classic cycling route in Surrey, was one of the sections we would be running! Perhaps it would be easier on foot than on a bike?
 
-After 6 weeks of cross-training the tweaked knee felt better and I was ready to run. An initial 10k with Sam ended up being a horrendous stop-start jog of pain and self-loathing - we had some work to do.
+After 6 weeks of no-running, an initial tentative 10 km with Sam ended up being a horrendous stop-start jog of pain and self-loathing - we had some work to do.
 
-As part of my recovery plan I started doing a bunch of fartleks, Yasso 800s and park runs. I was able to lower my 5k PB by a minute of so after getting back into things so the speed/strength training was on-track.
+As part of my recovery plan, I started doing a bunch of fartleks, Yasso 800s and park runs. I was able to lower my 5 km PB by a minute or so, after a tentative start the speed training was on-track!
 
-All-in-all I didn't manage a run greater than *cough* 25kms, so let's hope the solid base and all the cycling would be enough... It's also worth mentioning that I lots of targeted 5/10kms - so perhaps quality over quantity?
+Post the 35 km debacle, I chose not to run greater than *cough* 25 km, so let's hope the solid base and all the cycling would be enough, quality over quantity?
+
+***
 
 #### Planning
 
-Amusingly the planning went pretty much the same way as the Oner.
+ Planning went pretty much the same way as the Oner:
 
 1. Create a big spreadsheet with time predictions
-1. Break race up into 4 marathons
-1. Break the marathons in check-point pace charts
+1. Break race up into four marathons
+1. Break the marathons in check-point pacings
 
-The only tricky decision to make was what time we were aiming for. In the end we settled for 2 pace charts. One for a sub-24 hours finish and one for a 28-hour finish. The 28-hour pace chart was effectively +1min/km slower than the one for the 24.
+One tricky decision was what finish time to aim for. I was keen to punt for 24 hours and Sam was more tentative. As a compromise we settled for 2 pace charts. One for a sub-24 hour finish and one for a 28-hour finish. The 28-hour pace chart was effectively +1min/km slower than the one for 24 hours.
 
-The marathon pacing for the 24-hour was:
+Our marathon pacing for 24-hour was:
 
-1. 4.5 hours
-1. 6 hours
-1. 6 hours
-1. 7.5 hours
-
+```
+Marathon 1: 4.5 hours
+Marathon 2: 6 hours
+Marathon 3: 6 hours
+Marathon 4: 7.5 hours
+sleep.
+```
 
 <div class="row">
   <div class="col-md-12">
     <div class="thumbnail">
       <a href="/imgs/ndw100_2017/pace_chart.jpeg">
-        <img src="/imgs/ndw100_2017/pace_chart.jpeg" alt="Pace Chart" style="width:75%">
+        <img src="/imgs/ndw100_2017/pace_chart.jpeg" alt="24 Hour Pace Chart" style="width:55%">
         <div class="caption text-center">
           <p>24 hours FTW</p>
         </div>
@@ -79,16 +83,45 @@ The marathon pacing for the 24-hour was:
     </div>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/ndw100_2017/ndw_100_route.png">
+        <img src="/imgs/ndw100_2017/ndw_100_route.png" alt="The Route" style="width:45%">
+        <div class="caption text-center">
+          <p>The Route!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
 ***
 
 
 #### Pre-start
 
-We ventured down the start at Franham on the Friday afternoon, checked into our hotel and headed over to check-in. As was the theme for the rest of the weekend, the Centurion team ran a slick yet welcoming operation. Kit-check was fair and we were off to the races - in about 12 hours!
+We ventured down to Franham on Friday afternoon and headed over to check-in. The Centurion team ran a slick yet welcoming operation. Kit-check was fair and we were off to the races - in about 12 hours!
 
-We headed into town for last minute supplies and dinner. We over carboloaded and had spaghetti with a [table pizza](http://www.urbandictionary.com/define.php?term=Table+pizza), in retrospect this was too much food and not enough time to digest - ahem.
+We headed into town for supplies and dinner. We over carboloaded, spaghetti with a [table pizza](http://www.urbandictionary.com/define.php?term=Table+pizza), in retrospect this was too much food and not enough time to digest - ahem.
 
-After sorting out our drop-bags and run kit we were in bed by around 8pm with a 4am wake-up call. There was a wedding party going on in our hotel - thankfully I fell asleep with ease. Sam on the other hand tossed and turned and didn't get to sleep till much later.
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/ndw100_2017/food.jpg">
+        <img src="/imgs/ndw100_2017/food.jpg" alt="Food!" style="width:50%">
+        <div class="caption text-center">
+          <p>Table pizza :O</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+After packing drop-bags and run kit we were in bed by around 8pm, with a 4am wake-up call. To add to sleep challenges, there was a wedding party in our hotel - I thankfully fell asleep with ease. Sam on the other hand tossed and turned not sleeping until much later.
 
 <div class="row">
   <div class="col-md-12">
@@ -103,15 +136,15 @@ After sorting out our drop-bags and run kit we were in bed by around 8pm with a 
   </div>
 </div>
 
-Arriving for the pre-race briefing we had a good look around - the room was full of expectant runners - as we put our hands up as first time 100 milers, a few nerves ran through my feet. Strolling down to the start we were ready to rock n' roll!
+Arriving for the pre-race briefing the room was full of expectant runners! We put our hands up when they called out for virgin 100 milers, a few nerves ran through my feet. Strolling down to the start we were ready to get (north) down to running!
 
 <div class="row">
   <div class="col-md-12">
     <div class="thumbnail">
       <a href="/imgs/ndw100_2017/race_talk.jpeg">
-        <img src="/imgs/ndw100_2017/race_talk.jpeg" alt="Briefing!" style="width:75%">
+        <img src="/imgs/ndw100_2017/race_talk.jpeg" alt="Runing friends!" style="width:100%">
         <div class="caption text-center">
-          <p>Running friends for next day!</p>
+          <p>Running friends!</p>
         </div>
       </a>
     </div>
@@ -124,11 +157,11 @@ Arriving for the pre-race briefing we had a good look around - the room was full
 #### Start &rarr; CP3  <small>(0 to 39.5kms)</small>
 ###### Aid stations: Farnham, Puttenham, Newlands Corner, Box Hill Stepping Stones
 
-The first 4 check-points had pretty aggressive pacing, we were roughly aiming for a 4:30 marathon time - doesn't sound too bad until you remember the 3 marathons you run after. As the countdown hit zero everyone began a staccato run down a 2-person wide path. Everyone stayed pretty bunched up and we wasted a bit of time getting past various fences. Pace was good and the weather was perfect for the start of a long day of running. I mentioned to Sam that we were on pace for 24-hours and we cracked on.
+As per our 24-hour timings, the first 4 check-points had pretty aggressive pacing, roughly a 4:30 marathon. Perhaps this doesn't sound too bad until you remember there are three more marathons to follow. As the countdown hit zero everyone began a staccato run down a 2-person wide path. The group stayed bunched up and we spent a bit of time getting past various fences. The pace increased as the group spread out, I was grateful for the perfect weather for the start of a long day. I mentioned to Sam that we were on pace for 24-hours and we cracked on.
 
-We had a good chat with a gentleman called Darryl and he regaled us with his 2016 NDW100 attempt. He too was aiming for a sub-24. His strategy the previous year was to go out hard for the first 50 miles and then grind out the final 50 miles over Detling - this year he was taking the first 50 a bit easier. As ones does we slowly ran back-and-forth and eventually passed each other.
+A gentleman called Darryl regaled us with his 2016 NDW100 run, he was aiming for a sub-24. His strategy the previous year was to go out hard for the first 50 miles and then grind out the final 50 miles over, this had netted him a ~25 hour finish, not bad! This year he was taking the first 50 a bit easier to see if could crack - "100 Miles in 1 day" for the NDW.
 
-There is not much that I can say about the first 40 kms other than it is pretty flat and a good warm up for the day to come. We heeded some advice we got at the race briefing and tried to not go out too fast in this initial section. Arriving at box-hill aid station was great and we chowed down on the cornucopia of food and snacks on offer.
+In general the first 40 km was pretty flat, as per advice at the race briefing and reinforced by Darryl, we tried to resist running too fast. Arriving bang on schedule at the Box Hill aid station was great, we quickly chowed down on some food and continued.
 
 <div class="row">
   <div class="col-md-12">
@@ -157,40 +190,12 @@ There is not much that I can say about the first 40 kms other than it is pretty 
   </div>
 </div>
 
+*** 
+
 #### CP3 &rarr; CP8  <small>(39.5 to 96.2kms)</small>
 ###### Aid stations: Reigate Hill, Caterham, Botley Hill, Knockholt Pound, Wrotham
 
-After walking across the very scenic river crossing we launched ourselves up the Box Hill steps. After hearing so much about Box Hill, and having danced with the soul destroying hills during the Oner, I was pleasantly surprised with the gradient and distance - in no time and limited heart elevation we were at the top enjoying the lovely views. An unexpected shout awaited us at the top of the hill, Aubone, a colleague from work cheering us on! A handshake, quick photos and we marched on!
-
-As the day worn on the heat increased - it wasn't a stonking hot day, but it certainly wasn't cool. After Box Hill we were able to drop the pace a bit, but there were a lot more rolling hills to contend with, which made it a balancing act between stomping up the hills, running the soft hills and running quicker on the flats/downhill - joy!
-
-As we pulled into CP 5 (Reigate Hill) Sam mentioned that he was feeling the pace/heat a bit and had slightly swollen fingers. In the Oner Sam had struggled in the early race with an upset stomach due to challenges with electrolytes, for this race he had opted to go water+food only. I had stuck to my previous fueling strategy but had removed any processed sugar - sugar seemed to cause highs/lows and a sore stomach later in race. As we refueled at the aid station, Sam asked about his fingers. It was suggested he was low on salt/electrolytes - probably true, and given a salt tablet which he dutifully swallowed. We stocked up on water and snacks and began walking. 100m outside of the aid station Sam bent over and had an almighty chunder - it lasted for a good minute or so.
-
-> First rule of running club: Don't try anything new on race day!
-
-
-Sam picked himself up and we began running again, albeit slightly slower. For those of your who have met Sam before you know he will push himself to the limit and beyond, but you could see in his eyes he was a partly broken man. We cut the pace significantly and introduced some more run-walking. Thankfully we had entered part of the course we have recced a few weeks earlier so knew what to expect. I would love to say that the spring in Sam's step came back, but unfortunately he decided to drop. 
-
-At this point I had somewhat given up on the 24-hour attempt, the only silver lining to the slowness was that I felt pretty damn fresh. We had drifted about 30 mins off 24-hour pace, but perhaps there was still hope? Given that I knew the next 15 or so kms I felt confident to push the pace hard - I was also pretty certain I would be able to finish this thing in under 30 hours, so why not roll the dice a little and try put 24 hours within the realms of possible?
-
-We had been around 90th place at Box Hill and had been overtaken a lot, I began running hard for the next 2 aid stations, managing to to restore some of the deficit - 24 was possible but highly unlikely. As was mentioned in a couple other race reports (), the skies opened up during the point - I was grateful for the fresh cool air but found the wet mud hard to ascend in road shoes.
-
-At this point I want to mention the fantastic aid station crew. I generally hate wasting time at aid stations - I race hard to gain every minute and don't want to spend more than a few seconds standing around. The Centurion crew have this down to a tee:
-
-1. Run into aid station, hand over 2 water bottles
-1. Centurion crew full bottles whilst I grab snacks and sandwiches
-1. Crew hand back water bottles
-1. Leave aid station
-
-I think I averaged around 30 to 40s per an aid station, this is what a Formula 1 driver must experience - amazing!
-
-When I got to the half-way point in 10 hours and 30 minutes I was feeling sore from the fast pace, but had now completed 2 marathons on-target. The amazing crew sat me down, brought me over food and drink and my drop bag.  I woofed down the fantastic warm pasta and changed shoes and socks. I opted to go for compression socks party for nettle protection and also my trail shoes to avoid any more slipping and sliding through the more technical night section.
-
-I rang Tanya who was going to pace me later to let her know my progress.
-
-As I pulled out of the half-way point I met up with a group of other runners and we criss/cross chatted and ran together helping us through this 16 km section - thanks to [Karl](http://www.karlrunsfar.com/), Paul, Johnathan and the other runners who made the run that much more enjoyable - if you are ever in London feel free to drop me a line for a pint to say thanks!
-
-For some reason I had misread the length of this run and thought it was 10 kms rather than 10 miles (mind playing tricks!) the net effect was that I ran out of water with about 4 kms to go. This was a real struggle as the day was still warm and I worried about dropping behind in hydration.
+After stepping across the very scenic river cross we launched ourselves up Box Hill. Having heard so much about Box Hill, and memories of the soul destroying hills during the Oner, I was pleasantly surprised with the gradient and distance - in no time and limited heart-rate elevation we were at the top enjoying the lovely views. An unexpected shout at the top and a work colleague, Aubone, was there cheering us on! A handshake, quick photo and off we shot.
 
 <div class="row">
   <div class="col-md-12">
@@ -205,63 +210,140 @@ For some reason I had misread the length of this run and thought it was 10 kms r
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/ndw100_2017/top_box_hill.jpg">
+        <img src="/imgs/ndw100_2017/top_box_hill.jpg" alt="Top of Box Hill" style="width:75%">
+        <div class="caption text-center">
+          <p>Top of Box Hill</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
 
-<video width="620" height="440" controls>
+
+As the day wore on the thermometer drifted upwards, it wasn't a stonking hot day, but it certainly wasn't cool. As the sun got to me in the Oner I had decided to run with a peak-cap, this was deployed to some success. Post Box Hill the average pace was set to go down, but as there were many rolling hills, pacing became a balancing act between stomping the steep hills, running the soft hills and running slightly quicker on the flats/downhill - joy! Unlike the Oner where I ended up with quad spasms after 35 km, I didn't storm down the hills and instead ran moderately quicker to conserve the quads for later in the race, this strategy worked well - and I had no spasms at all.
+
+As we pulled into CP 5 (Reigate Hill) Sam mentioned that he was feeling the pace/heat a bit and had slightly swollen fingers. In the Oner Sam had an upset stomach and to combat this he had opted to run with water+food only. I had stuck to my previous fueling strategy but had removed most processed sugar, which seemed to cause highs/lows and a sore stomach later in race. As we refueled at the aid station, Sam asked about his fingers. It was suggested he was low on salt/electrolytes - probably true, and given a salt tablet which he dutifully swallowed. We stocked up on water and snacks and began walking. 100m from the aid station Sam bent over and had an almighty chunder - it lasted  a good minute.
+
+> First rule of running club: Don't try anything new on race day!
+
+
+Sam picked himself up and we began running again, albeit slightly slower. Sam will push himself to the limit and beyond, but you could see in his eyes he was a partly broken man. We cut the pace significantly and introduced some run-walking. Advantageously we had entered a section of the course we have recced a few weeks earlier, so we knew what was to come. I would love to say that the spring in Sam's step came back, but sadly his day was over after 60 km.
+
+At this point I had somewhat given up on the 24-hour attempt, the only silver lining to the slowness was that I felt pretty damn fresh. We had drifted 35 minutes off 24-hour pace, but perhaps there was still hope? Given that I knew the next 15 kms I felt confident to push the pace hard - I was also pretty certain I would be able to finish this thing in under 30 hours, so why not roll the dice a little?
+
+We had been around 90<sup>th</sup> place at Box Hill and had been overtaken a lot, I began running hard for the next 2 aid stations, managing to restore some of the deficit. As was mentioned in a couple other race reports (), the skies opened up - Personally I was grateful for the fresh cool air even though the wet clay was hard to ascend in road shoes.
+
+I would be remiss to not mention the fantastic volunteers at every aid station. I generally hate wasting time at aid stations - I race hard to gain every minute and don't want to spend more than a few seconds standing around. The Centurion crew have this down to a tee, as I pulled into Botley Hill aid station:
+
+1. Hand over 2 water bottles
+1. Centurion crew fill bottles 
+1. I grab snacks, sandwiches and stuff my face
+1. Crew hand back water bottles
+1. Leave aid station
+
+I think I averaged around 40 seconds per an aid station, Formula 1 drivers eat your heart out - amazing!
+
+The half-way point came in 10 hours and 30 minutes, my body was feeling sore from the fast pace, on the positive side two marathons down and on-target, woohoooo! The amazing volunteers sat me down, brought over my drop bag, food and drink.  I woofed down the fantastic warm pasta then changed shoes and socks. I opted to go for compression socks for the second half - partly as nettle protection, I also changed to trail shoes to avoid any more slipping during the more technical night section. The gent I sat next to mentioned that the first half had taken more out of him than expected, and had decide to slow down. Not great foreboding.
+
+Whilst eating, I rang my sister, Tanya, who was going to pace me later and let her know my progress. Tanya also mentioned Sam had got a lift to the half-way point, but after a quick look around and not seeing him I decided to press on.
+
+
+<video controls>
   <source src="/imgs/ndw100_2017/ian_post_half_way.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 
+As I pulled out of the half-way point I joined up with a group of other runners and we ran together for the next 16 km section - thanks to [Karl](http://www.karlrunsfar.com/), Paul, Johnathan and the other runners who made the run that much more enjoyable - if you are ever in London feel free to drop by for a pint or two!
+
+My mind was a bit foggy and I misread the length of this section, thinking 10 km rather than 10 miles, damn! As a result, I ran out of water with about 4 km to go - which equated to about 25 minutes at current pace, really shouldn't have sprayed water on my neck earlier... As a rule, I struggle without a constant sip of water every few minutes, I began asking a few other runners if they had any spare, turns out they were in a similar position! Karl had a few drops to donate and I felt much better.
+
+Shortly after this we ran past an unwell runner, we offered our assistance, Karl gave her some supplies and mentioned that it was not far until the Holly Hill check-point. As there were a large amount of runners around and she motioned for us to continue we pushed on, I'm pretty certain I saw her photo in the list of finishers, hurrah! After cresting the un-Holly Hill I refilled my water and pushed on quickly! 
+
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/ndw100_2017/ian_hot.jpg">
+        <img src="/imgs/ndw100_2017/ian_hot.jpg" alt="Feeling the heat..." style="width:55%">
+        <div class="caption text-center">
+          <p>Feeling the heat...</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+***
 
 
 #### CP8 &rarr; CP11  <small>(96.2 to 131.5kms)</small>
-###### Aid stations:  Holly Hill, Bluebell Hill, Detling
+###### Aid stations: Holly Hill, Bluebell Hill, Detling
 
-As I pulled up to aid station 8 I have a very welcome surprise, my crew were just walking into the station for me! For some reason I thought I wasn't meeting them so early so was very glad to see them. After the low point or running out of water, not to mention having run nearly 100 kms, it was going to be amazing having fresh legs to leech!
+As I pulled into aid station 8 there was a nice surprise, my crew were sauntering in at the same time! For some reason I thought I was meeting them at the following aid-station, so was very glad to see them. After the low points of the previous section and the nearly 100 kms already done, it was going to be refreshing having news legs to motivate me!
 
-Amusingly I had the crew that I would be in-and-out of aid stations in a minute or less. Ironically I needed a good 5 minutes to compose myself at CP8, the pace and low water had really taken it's toll. After drinking some water, 2 cups of coke, half and orange, a handful of grapes, 1 sandwich I WAS READY TO GO! Tanya and I waved farewell to the NDW100-Crew and we were on our way.
+Before the race I had warned the crew that I would be in-and-out of aid stations in a minute - they were ready and rearing to go. Much to their amusement, I needed a good 5 minutes to compose myself at CP8, the pace had been pretty high and running out of water had taken a toll. I proceeded to drink 1 cup of water and 2 cups of coke and then ate half an orange, a handful of grapes, and 1 sandwich! I was FINALLY ready to go. Tanya and I waved farewell to the NDW100-Crew, and we were back on the trail.
 
-Having run for around 11 hours at this point I was perhaps a little less chatty than Tanya expected but she did a fantastic job running with me. When she joined it was still quite warm, but the sun slowly set and we had to turn our head-torches on. This section of the course was very runnable and we kept the pace high, pushing hard to try keep the 24-hour dream alive.
+Having run for 11ish hours at this point I was perhaps a little less chatty than Tanya expected but she did a fantastic job running with me. When she joined it was still quite warm, but the sun slowly set and we had to turn our head-torches on. This section of the course was very runnable and we kept the pace high. Apart from a run-in with a tree and Tanya taking a couple of tumbles there were no major mishaps to report. Tanya got to experience her first transition from sunshine to night-time running.
 
-After Tanyas stint I was joined by a very energetic Martin, fresh from his Marathon run to help me ascend Bluebell Hill - unfortunately for Martin he joined me at a pretty low point of the race. Some confusion over check-points and the high-pace of the previous section had sapped some of my mental strength.
-
-Everyone talks about Box Hill and Detling when discussing the NDW100, I am going to add Bluebell Hill onto that list. It's long, annoying and not much fun. Furthermore, you know this is just a prelude to Detling. I didn't like that hill one bit - good riddance!
-
-As we arrived at the Bluebell Hill aid station at 11pm and I was surprised Sam had returned to cheer me on! After that horrendous hill it helped raise my spirits to see my usual partner in running crime. He also pointed our I only had 1 marathon to go, and 7 hours to make that it in - simples (or was it?).
-
-Karl, my adopted NDW running buddy was chilling out in the a chair. We mumbled a few words of good luck and both set off at roughly the same time. Helen was joining me for the next 20kms or so before handing over to my final pacer of the night. Almost immediately after setting off I felt very chilled and opted to put my running jacket on - this turned out to be a great idea as the evening was chilly at times.
-
-I feel sorry for Helen for 2 reasons:
-
-1. Not 5 minutes out of the CP and we both walked into a very deep puddle and got super wet shoes, argh!
-1. The Hills.
-
-Now Box Hill may be more famous, but the hills in Detling and unrelenting. No sooner do you ascend a hill, then do you drop down and have to do it all over again. Much like the Oner both the downhills and the uphills are not really runable, they are just too steep and slippery for anyone to seriosuly tackle at speed at 1 am. So we ground it out, running where we could, stomping where we had to.
-
-I will always remember a section where we emerged from a steep incline, the path opened up and we surged ahead, enjoying 15 minutes of fast pace running - storming along. It's times like these in a race where the experience can be surreal and beautiful.
-
-As we pulled into Detling Village Hall I felt great, we had managed to keep the pace bang on - the whole team was there to check Helen and I were good. I ate some much needed soup and drank some Dr. Pepper, thanks again Centurion team for brining the food over to my table! A few of the runners I had been chatting to earlier were sitting down I had a brief chat with them and decided that there was no time like the present and we were off.
-
-What can I say about the next section. More and steeper hills.
-
-As we got into Hollingbourne crew station, the highs of the previous aid station were crushed. My legs ached, my mind felt broken and to be frank 24 hours seemed damn unlikely at this point. I sat in the back of the car, sipped on a drink and talked to the team about what needed to be done. We had 35 km in around 5 and a half hours. After 131 kms it had come to this. For a brief moment I gave up on the dream - and decided to grind out the finish - 24 hours, 25 hours, who cares? I looked at my crew and was grateful for all their support.
-
-
-
-<video width="620" height="440" controls>
+<video controls>
   <source src="/imgs/ndw100_2017/tanya.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
+After Tanyas stint I was joined by a very energetic Martin, fresh from his Copenhagen Marathon, he helped me ascend Bluebell Hill - unfortunately for Martin he joined me at a pretty low point of the race. Some confusion over check-points and the high-pace of the previous section had sapped some of my mental strength. I was fighting to keep the pace up and push myself, I had also been running for around 16 hours at this point, I was very quiet and inside my own world for most of the section. Everyone talks about Box Hill and Detling when discussing the NDW100, I am going to add Bluebell Hill onto that list. It's long, annoying and not much fun. Furthermore, you know this is just a prelude to Detling. I didn't like that hill one bit - good riddance!
+
+As we arrived at the Bluebell Hill aid station at 11pm I was surprised to see that Sam had returned to cheer me on! After that horrendous hill it helped raise my spirits to see my usual partner in running crime. He also pointed out that I only had one marathon to go, and 7 hours to get under 24 hours. This was 30 minutes less than the pacing chart had budgeted for, and as such I was under no illusions that a 7-hour marathon, with the hardest hills still to come, was going to be touch-and-go.
+
+Karl, my adopted NDW running buddy, was chilling out in one of the aid station chairs. We mumbled a few words of good luck and both set off at roughly the same time. Helen was joining me for the next 20 km before handing over to my final pacer. Immediately after setting off I felt very chilled and opted to put my running jacket on - this turned out to be a great idea as the clear skies caused the weather to be quite frigid.
+
+Helen was unlucky for 2 reasons:
+
+1. Not 5 minutes out of the CP and we both walked into a very deep puddle and got rather wet shoes, argh!
+1. The Hills.
+
+Box Hill may be more famous, but the hills in Detling are unrelenting. False horizons and steep steps chipped away at our confidence. As with the Oner the downhills and  uphills are not easily runnable, just too steep and slippery for anyone to seriously tackle with speed at 1am. So we ground it out, running where we could, stomping where we had to.
+
+Etched in my memory is a section where Helen and I emerged from a steep incline, the path opened up and we surged ahead, enjoying 20 minutes of pure fast pace running. Race experiences like this remind me of how surreal and beautiful ultra-distance trail running can be.
+
+As we pulled into Detling Village Hall I felt great, we had managed to keep the pace about right - the whole team was there to see how Helen and I were doing. I ate a bowl of much needed soup and drank Dr. Pepper, thanks again to the Centurion team for brining food over to my table! A few of the runners I had been chatting to earlier were sitting down and munching on some soup too, I had a brief chat with them and decided that there was no time like the present - Helen and I were off!
+
+What can I say about the next section? _The hills got steeper and my shins began to hurt on the downhills._
+
+As we got into Hollingbourne crew station, the highs of the previous aid station were gone. My legs ached, my mind felt broken and I felt spent. I sat in the back of the car, sipped on a drink and talked to the team about what needed to be done. We needed to complete 35 km in five and a half hours. After 131 kms it had come to this. For a brief moment I gave up on the dream - let's just grind out the finish - 24, 25, 26 hours - who cares?
+
+
+<br/>
+
+<pre>
+I had intended to do a video with Martin, Helen and Dan but we were so focused it slipped my mind.
+Next time, I promise!
+</pre>
+
+*** 
+
 #### CP11 &rarr; FIN  <small>(131.5 to 166kms)</small>
 ###### Aid stations:  Lenham, Dunn Street, Ashford
 
-Dan, my final pacer, and I pulled out of the crew point and hit the first of a few demoralizing hills. I tried my best to run but I just couldn't get moving. We surged again ,only to be met by another steep incline. Dan glanced down at his phone, the crew had been tracking our progress and relayed that we were way off pace - 24 hours was blown. Fuck that. As if by magic, my mind clicked into place - I told Dan, get in front and run. You set the pace and I will follow. Boy did we run! I felt fantastic, we dropped into 6 to 5:30kms we were a freight-train crushing the lovely countryside!. Dan kept the motivation up, and my brain going by calling out pacing in miles, 10 minute miles, wtf - I never do miles! We could do this!
+Dan, my last pacer, and I pulled out of the crew point and hit the first of a few demoralizing hills. I tried my best to run but I just couldn't get moving. We surged, only to be met by another steep incline. Dan glanced down at his phone, the crew had been tracking our progress and relayed that we were way off pace - 24 hours was blown.
+
+As if by magic, my mind clicked into place - I told Dan, get in-front and run. You set the pace and I will follow. Boy did we run! I felt great, we dropped into a pace of around 6 to 5.30 minutes a km. Dan kept the motivation up, and my brain going by calling out pacing in miles, 10 minute miles, I never do miles! We could do this...
+
+We managed to catch up with a number of runners, which provided an extra little bit of motivation to keep the pace going - can't overtake someone and then let them re-overtake you, right?! Not only did we run the flats and downs but we also pushed up the hills. Dan kept calling off the pace and the distance as we reeled in the finish. Apart from having to re-trace a minor 100m detour we didn't deviate from the path. Though I ran with Dan for 5 hours, I struggle to recall any particular part of the run apart from the constant push - so forgive the lightness of this section.
 
 
-As I pulled into Ashford and did my lap of the stadium emption swept over me. The day had not gone according to plan. From Sam dropping out, to the physical strain it had been a herculean effort. Mind over body.
+As I pulled into Ashford and did a lap of the stadium emotion swept over me. The day had not gone according to plan but we had made it. Sam, Tanya, Martin and Helen cheered as Dan and I crossed the finish line in 23 hours and 40 minutes!
 
-Sam, Tanya, Martin and Martin cheered as we crossed the finish line in 23 hours and 40mins!
+
+<video controls>
+  <source src="/imgs/ndw100_2017/finish_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 <div class="row">
   <div class="col-md-12">
@@ -289,18 +371,22 @@ Sam, Tanya, Martin and Martin cheered as we crossed the finish line in 23 hours 
   </div>
 </div>
 
-*** 
+***
 
 
 #### Aftermath
 
-It's been about a week now since I finished the NDW100. Most of the aches and pains have subsided though a lingering shin splint is not quite gone, which is weird as I never have shin splints.
+After a week most of the aches and pains subsided, though a lingering shin splint took some time to go away, which is weird as I never have shin splints.
 
 My feet were super super swollen this time - I think I must have over-tightened the trail shoe.
 
 > Remember to loosen shoes as the race goes on.
 
-Thanks to my amazing pacing team and the fantastic Centurion team.
+Two weeks on, I am able to run again and need to kick into gear for York Marathon which is on the 8th of October. Followed by re-running the Brecon Beacons Ultra in November.
+
+Thanks to my amazing pacing team and the fantastic Centurion team for a memorable race.
+
+
 
 <div class="row">
   <div class="col-md-12">
@@ -308,7 +394,7 @@ Thanks to my amazing pacing team and the fantastic Centurion team.
       <a href="/imgs/ndw100_2017/sleeping_beauty.jpeg">
         <img src="/imgs/ndw100_2017/sleeping_beauty.jpeg" alt="Couch never felt so comfy" style="width:75%">
         <div class="caption text-center">
-          <p>Couch never felt so comfy</p>
+          <p>Quarter pint and the couch never felt so comfy</p>
         </div>
       </a>
     </div>
@@ -317,12 +403,24 @@ Thanks to my amazing pacing team and the fantastic Centurion team.
 
 
 <div class="row">
-  <div class="col-md-12">
+
+  <div class="col-md-6">
+    <div class="thumbnail">
+      <a href="/imgs/ndw100_2017/normal_foot.jpg">
+        <img src="/imgs/ndw100_2017/normal_foot.jpg" alt="Normal Foot" style="width:65%">
+        <div class="caption text-center">
+          <p>Normal Foot</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-md-6">
     <div class="thumbnail">
       <a href="/imgs/ndw100_2017/swollen_foot_after.jpeg">
-        <img src="/imgs/ndw100_2017/swollen_foot_after.jpeg" alt="Gorgeous Feet" style="width:75%">
+        <img src="/imgs/ndw100_2017/swollen_foot_after.jpeg" alt="Post Run Foot" style="width:65%">
         <div class="caption text-center">
-          <p>Gorgeous Feet</p>
+          <p>Post Run Foot</p>
         </div>
       </a>
     </div>
@@ -341,7 +439,9 @@ Thanks to my amazing pacing team and the fantastic Centurion team.
  </div>
   </div>
   
-***
+<pre>
+FIN.
+</pre>
 
 ## Oner 2017
 
@@ -511,7 +611,7 @@ We uneventfully pushed through CP3 and looked forward to finishing the first mar
 
 > Side note: before the run Sam and I had discussed aid station strategy. I am very pro the briefest of stops and avoid the temptation to linger. Sam preferred a slightly more measured approach. With 11 aid stations, 3min stops equate to over half an hour. In the end we came to some middle ground which worked well. We were also careful not to forgo water in this heat.
 
-<video width="620" height="440" controls>
+<video controls>
   <source src="/imgs/oner_2017/cp4.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -530,7 +630,7 @@ As we admired the high cliffs on our left we began to look for the sharp left tu
 Over 40 minutes and an extra 2.2km had been run. Things were going to get tight.
 The only good news was Sam was feeling good. A quick pit stop, some soup, a change of shoes, 20mins or so and we were back on the road!
 
-<video width="620" height="440" controls>
+<video controls>
   <source src="/imgs/oner_2017/cp5-6.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -561,7 +661,7 @@ It was whilst racing the other two runners that we made a minor error and ran ab
 As we pulled up to the check-point, we saw <a href="http://www.brutalevents.co.uk/d_miller_brutal_blog.html">*two other runners*</a>.
 
 
-<video width="620" height="440" controls>
+<video controls>
   <source src="/imgs/oner_2017/cp7-9.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
