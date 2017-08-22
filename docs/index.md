@@ -418,9 +418,9 @@ Thanks to my amazing pacing team and the fantastic Centurion team for a memorabl
   <div class="col-md-6">
     <div class="thumbnail">
       <a href="/imgs/ndw100_2017/swollen_foot_after.jpeg">
-        <img src="/imgs/ndw100_2017/swollen_foot_after.jpeg" alt="Post Run Foot" style="width:65%">
+        <img src="/imgs/ndw100_2017/swollen_foot_after.jpeg" alt="Post Race Trotter" style="width:65%">
         <div class="caption text-center">
-          <p>Post Run Foot</p>
+          <p>Post Race Trotter</p>
         </div>
       </a>
     </div>
