@@ -284,7 +284,7 @@ Shortly after this we ran past an unwell runner, we offered our assistance, Karl
 #### CP8 &rarr; CP11  <small>(96.2 to 131.5kms)</small>
 ###### Aid stations: Holly Hill, Bluebell Hill, Detling
 
-As I pulled into aid station 8 there was a nice surprise, my crew were sauntering in at the same time! For some reason I thought I was meeting them at the following aid-station, so was very glad to see them. After the low points of the previous section and the nearly 100 kms already done, it was going to be refreshing having news legs to motivate me!
+As I pulled into aid station 8 there was a nice surprise, my crew were sauntering in at the same time! For some reason I thought I was meeting them at the following aid-station, so was very glad to see them. After the low points of the previous section and the nearly 100 kms already done, it was going to be refreshing having new legs to motivate me!
 
 Before the race I had warned the crew that I would be in-and-out of aid stations in a minute - they were ready and rearing to go. Much to their amusement, I needed a good 5 minutes to compose myself at CP8, the pace had been pretty high and running out of water had taken a toll. I proceeded to drink 1 cup of water and 2 cups of coke and then ate half an orange, a handful of grapes, and 1 sandwich! I was FINALLY ready to go. Tanya and I waved farewell to the NDW100-Crew, and we were back on the trail.
 
