@@ -235,7 +235,7 @@ Sam picked himself up and we began running again, albeit slightly slower. Sam wi
 
 At this point I had somewhat given up on the 24-hour attempt, the only silver lining to the slowness was that I felt pretty damn fresh. We had drifted 35 minutes off 24-hour pace, but perhaps there was still hope? Given that I knew the next 15 kms I felt confident to push the pace hard - I was also pretty certain I would be able to finish this thing in under 30 hours, so why not roll the dice a little?
 
-We had been around 90<sup>th</sup> place at Box Hill and had been overtaken a lot, I began running hard for the next 2 aid stations, managing to restore some of the deficit. As was mentioned in a couple other race reports (), the skies opened up - Personally I was grateful for the fresh cool air even though the wet clay was hard to ascend in road shoes.
+We had been around 90<sup>th</sup> place at Box Hill and had been overtaken a lot, I began running hard for the next 2 aid stations, managing to restore some of the deficit. As was mentioned in a couple other race reports the skies opened up - Personally I was grateful for the fresh cool air even though the wet clay was hard to ascend in road shoes.
 
 I would be remiss to not mention the fantastic volunteers at every aid station. I generally hate wasting time at aid stations - I race hard to gain every minute and don't want to spend more than a few seconds standing around. The Centurion crew have this down to a tee, as I pulled into Botley Hill aid station:
 
