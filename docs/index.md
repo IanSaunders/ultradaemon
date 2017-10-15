@@ -1,5 +1,197 @@
 # Running 2017
 
+## Yorkshire Marathon
+
+***
+
+* [Website](www.theyorkshiremarathon.com/events/plusnet-yorkshire-marathon-york/)
+* [Results](http://www.centurionrunning.com/raceresult/57b1c181ab9d31366b7d3f95)
+
+***
+
+#### TLDR
+```
+Date      :  October 8th
+Distance  :  26 miles 385 yards or 42.195 km
+Cutoff    :  8 hours
+Elevation :  +469 ft
+             +143 m
+
+Result    :  Finished in 3:07:05 hours (Chip time)
+             154th place 
+             4,144 finishers
+             0 Toilet breaks
+```
+
+***
+
+#### Goals
+
+* A Goal: Sub-3:00
+* B Goal: 3:05
+* C Goal: Sub-3:10
+
+#### Training
+
+Having spent most of the last 8 months running progressively longer runs cumulating with the NDW100 I felt it was time to work on speed. Having never followed a training program before, and based on the recommendations from [ARTC](https://www.reddit.com/r/artc/) I decided to pick-up a copy of [Advanced Marathoning](https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/) - I also read [How to Run a 3 hour Marathon, a Just Enough Training Approach](https://bridgerridgerun.wordpress.com/2015/03/30/how-to-run-a-3-hour-marathon-a-just-enough-training-approach/) for a little balance.
+
+In the end I roughly ended up with a weekly plan of:
+
+* Fartleks
+* Tempo run
+* Long run
+
+I also threw in a few Park Runs and some double days to try top-up the volume. I needed 2 weeks to recover from NDW100 and with 1 week taper it meant that this training cycle was roughly 6 weeks. As I had a pretty strong aerobic base I decided to focus on speed work and form. To this end I also joined a running club ([Go London City Runners!](https://www.londoncityac.org/)).
+
+I managed to PR my 5 km time, reducing it from ~20:02 to 18:01. I was averaging about 50 kms (30 miles) a week. After reading and doing some calculations I thought that there was potential for a sub-3 hour marathon, though it would be tight. My previous Marathon was PR was ~3:35 at San Francisco marathon, but I didn't really race it, just aiming to finish with an alright time.
+
+
+I should also mention I put a lot of effort into hydration in the build up to this race. With long-distance running I tend to have a strategy of sip little but often. This cadence allows the body to keep hydrated without overloading. I didn't really want to run with water, so for this training cycle I worked on being okay with getting hydration every 5 km.
+
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/yorkshire_2017/pre-race.jpg">
+        <img src="/imgs/yorkshire_2017/pre-race.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <div class="caption text-center">
+          <p>24 hours FTW</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+***
+
+#### Pre-race
+
+A last minute business trip to San Francisco threw a minor spanner in the works with timing. I arrived back in London on Friday - 2 days before the race. I did my best to mitigate jet-lag and tiredness but  ¯\\_(ツ)_/¯.
+
+All the ultra distance running has got me into the habit of planning the races, haha! I came up with a bit of strategy, and read as many race-reports as possible. Fortunately there was a great race-report from [Andy Wu - Run to Win - Yorkshire Marathon 2016](https://yellowrunner.wordpress.com/2016/10/11/yorkshire-marathon-2016-review/) which matched my approximate race-strategy. I used this as a rough-guide to my plan of attack. I did the usual carbo-loading which I am always quite meh about!
+
+My sister, Tanya, was running her first marathon on the day and our friend, Martin, was running his second. Martins family is from York and very gracefully housed and fed us! Thanks Nelson family - they were really accommodating to all my pre-race day rituals!
+
+We got the start line early to avoid stress, dropped off our bag and went to our starting pens.
+
+York isn't a huge marathon and I found myself in #1 pen with the local elites and others aiming to go sub-3. One of the advantages of the first pen is there is a bit more space, so I began a few dynamic stretches and strides. I tried to figure out where to put myself in the pen and was about 4 or 5 rows back. As I looked around I spotted Andy Wu from York blogging fame! He was back in York for another sub-3 attempt. Myself and a few others felt obliged to say hello and and thank him for a very useful race report - after a few good-lucks we settled down to run...
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/yorkshire_2017/before.jpg">
+        <img src="/imgs/yorkshire_2017/before.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <div class="caption text-center">
+          <p>24 hours FTW</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+***
+
+#### Miles [0] to [18]
+
+I decided to either positive or even split the race, i.e do the first half a bit quicker than the second. I settled into roughly a 4:12 mins/km a pace. I had originally intended to go out with the 3-hour pacer, but his pace seemed a touch on the high-side for me, perhaps he was banking time for later in the race. Out of the corner of my eye I saw a familiar yellow running shirt. It looks like Andy and I were on a similar race strategy, we formed a secondary sub-3 hour group with about 5 other runners and began working together to bring this in.
+
+The Miles zoomed by and everything went pretty smoothly. We lapsed a few times dropping into 4:16 to 4:20 min/km race - but the watches are always off by 1% or 2% so I wasn't too concerned. The group was great and had a chat with a number of runners. I enjoy having a good chat during ultras, but didn't realize it was a thing on marathons! I kept chipping away at my stinger waffles and had half a Gu. Hydration seemed to be working okay and the pace seemed fine. Only minor incident was a shoe-lace coming undone - this was my first race with my Nike Vaporfly 4% and they were performing very well! We crossed the half-way point in 1:29:30 which was pretty much bang on where we wanted to be. Given that I hardly even run half-marathons this also happened to be a half-marathon PB!
+
+During these section the sub-3 group became a little transient with people dropping off and new members joining in. Myself and Andy made a blood oath to keep together and we kept the pace just right!
+
+#### Miles [19] to [21]
+
+It was around here that the wheels started to come off. 
+
+There was a long draw out soft up-hill section where we kept the pace around 4:18 min/km, we rotated wind blocking. Andy and another chap did a fantastic job of pushing but I was feeling the exertion a little at this point.
+
+Once we crested the top of the hill there was a nice soft downhill, we upped the pace to 4:10 min/km to bank time for the return leg of this out-and-back section. I really started to feel the burn at this point, I dug in deep to keep with Andy and the other chap. The extra exertion was off-set by them taking most of the wind pain! I decided that perhaps a Gel was in-order. I though we were only a few hundred meters from a water station so smashed the whole gel. A few minutes later we arrived at the water station, guess what, it was on the other bloody side of the road - damn those out-and-backs! For those of you who don't suffer energy gels, they kind of stick to your throat and are best followed up with a swift sip of water. I had limited choice to push on, but this certainly has some mental toll.
+
+As we ended the down section and turned to go back up the hill I decided I needed to drop the pace a bit to avoid a bigger crash. Andy was already a good 10m in-front of me. He looked back and pointed at his shoes but I waved him on. He was looking strong and if anyone could bring in that sub-3 today, it was him, Go Andy!
+
+A few minutes later I hit the $%@$ water station - this time on the correct side of the road. After drinking some water I felt a bit better, I decided to increase the pace again and try catch-up to Andy. For about 5 minutes. Then I decided that was wishful thinking.
+
+***
+
+#### Miles [21] to [26]
+
+The last 5 miles were a war-of-attrition. I always try to be a strong finisher, and really race the last section. Unfortunately my mind was having none of it. I became a nice target for a few strong finishers to zoom passed - this proved a mixed blessing as I tucked in behind them and used them as a bit of a mental target to push myself on. In the back on my mind I thought perhaps a final surge at the 5 km point could bring in the bacon but when I tried to increase cadence I just didn't have it in me.
+
+Whilst on the final damn steep hill only the crowd shouting kept me from walking - eurgh shame this isn't a trail race! I ran hard in to prevent any last minute runners snatching my 154th place. And done.
+
+As I crossed the finish line Andy had decided to stick around to welcome us in! This was a lovely bit of camaraderie and appreciated the thought! Over a cold Erdinger AF I filled in the blanks from when he left me, and he did the same! If you are curious how Andy did he wrote up a [great race-report here](https://yellowrunner.wordpress.com/2017/10/10/yorkshire-marathon-2017-review/).
+
+
+After picking up our bags Andy headed off to go meet his wife and I retired to the finish to cheer in winners and wait for Tanya and Martin to finish. Tanya brought it in at 4:59 and Martin shortly afterwards!
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/yorkshire_2017/finished.jpg">
+        <img src="/imgs/yorkshire_2017/finished.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <div class="caption text-center">
+          <p>24 hours FTW</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+***
+
+#### Post-race
+
+I am disappointed I didn't manage to push through the wall and keep the pace at the appropriate level to bring in the sub-3. I've been through much more painful and mentally straining sections during the the NDW100 & the ONER. After a weeks reflection, I've come to the conclusion that even though I had the mental toughness to get over the wall, I was not prepared to push through it quickly. When you are running for ~24 hours dropping pace by 1 minute a km and taking 45 minutes to get yourself back into race mode is not an issue. In a marathon you don't really have that time.
+
+I didn't get fueling quite right. I was trying a slightly different strategy here, which was a hybrid of my other races. 2 Stinger waffles and then 3 Gu gels (I only consumed 1.5 gels). I also need to work on timing and getting the nutrition in.
+
+> Note: Try avoid long international flights 2 days before a race.
+
+Given the short training cycle, limited pace work and low-mileage it was always going to be a little bit of a stretch to go sub-3. Perhaps another 4 weeks with a few more longer marathon pace runs would have done the trick?
+
+Other positives?
+
+- I smashed my marathon PB by about ~28 minutes.
+
+- This was my first attempt at actually trying to race a marathon rather than just grind it out. Glad to see that  targeted training pays dividends.
+
+- There are ample areas that I can use to trim those remaining minutes.
+
+Above all, I got to run with a bunch of amazing runners who made the day that much more enjoyable, hopefully I will get to race with them one again!
+
+***
+
+#### What's next?
+
+Only two more proper races left in 2017, the [Brecon Beacon Ultra (76 km)](http://www.beaconsultra.com/) in mid-November and a 5 km track race just before Christmas with the club. It will be my second run of Brecon and looking to roll the dice a bit ;)
+
+***
+
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/yorkshire_2017/waiting.jpg">
+        <img src="/imgs/yorkshire_2017/waiting.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <div class="caption text-center">
+          <p>24 hours FTW</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+***
+
+### Strava Run
+
+<div class="row">
+  <div class="col-md-12 text-center">
+     <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1220816003/embed/83e158583211649f19dfe168fa5fc0396f22cd61'></iframe>
+  </div>
+</div>
+
 ## North Downs Way 100
 
 ***
@@ -31,11 +223,11 @@ Result    :  Finished in 23:40:59 hours
 
 Sam and I had been foolishly working our way up the minimum requirements to run a 100 mile race. Marathon, 46 miles, 82 miles and now finally - The North Day Way 100 (miles)!
 
-To start, let's get excuses out the way. Two weeks after the Oner I ran a 35 km marathon training run with a friend, Martin. My body finished the run under duress and retaliated by gifting a tweaked right knee - the net-effect was no running for the next 6 weeks, bummer.
+To start, let's get excuses out the way. Two weeks after the ONER I ran a 35 km marathon training run with a friend, Martin. My body finished the run under duress and retaliated by gifting a tweaked right knee - the net-effect was no running for the next 6 weeks, bummer.
 
 > Future self: Even if you feel recovered, gradually increase the distance
 
-Unfortunately, I had a 100 mile race coming up! Right then, Plan B: Get in a decent amount of cross-training whilst the legs recover. The Oner had been a brutal slog, and I hoped the NDW100 could be a little less painful - I decided to focus on the following training areas:
+Unfortunately, I had a 100 mile race coming up! Right then, Plan B: Get in a decent amount of cross-training whilst the legs recover. The ONER had been a brutal slog, and I hoped the NDW100 could be a little less painful - I decided to focus on the following training areas:
 
 1. Need to work on speed
 1. Quads - they get hammered by the hills
@@ -53,7 +245,7 @@ Post the 35 km debacle, I chose not to run greater than *cough* 25 km, so let's 
 
 #### Planning
 
- Planning went pretty much the same way as the Oner:
+ Planning went pretty much the same way as the ONER:
 
 1. Create a big spreadsheet with time predictions
 1. Break race up into four marathons
@@ -195,7 +387,7 @@ In general the first 40 km was pretty flat, as per advice at the race briefing a
 #### CP3 &rarr; CP8  <small>(39.5 to 96.2kms)</small>
 ###### Aid stations: Reigate Hill, Caterham, Botley Hill, Knockholt Pound, Wrotham
 
-After stepping across the very scenic river stones we launched ourselves up Box Hill. Having heard so much about Box Hill, and memories of the soul destroying hills during the Oner, I was pleasantly surprised with the gradient and distance - in no time and limited heart-rate elevation we were at the top enjoying the lovely views. An unexpected shout at the top and a work colleague, Aubone, was there cheering us on! A handshake, quick photo and off we shot.
+After stepping across the very scenic river stones we launched ourselves up Box Hill. Having heard so much about Box Hill, and memories of the soul destroying hills during the ONER, I was pleasantly surprised with the gradient and distance - in no time and limited heart-rate elevation we were at the top enjoying the lovely views. An unexpected shout at the top and a work colleague, Aubone, was there cheering us on! A handshake, quick photo and off we shot.
 
 <div class="row">
   <div class="col-md-12">
@@ -224,9 +416,9 @@ After stepping across the very scenic river stones we launched ourselves up Box 
 </div>
 
 
-As the day wore on the thermometer drifted upwards, it wasn't a stonking hot day, but it certainly wasn't cool. As the sun got to me in the Oner I had decided to run with a peak-cap, this was deployed to some success. Post Box Hill the average pace was set to go down, but as there were many rolling hills, pacing became a balancing act between stomping the steep hills, running the soft hills and running slightly quicker on the flats/downhill - joy! Unlike the Oner where I ended up with quad spasms after 35 km, I didn't storm down the hills and instead ran moderately quicker to conserve the quads for later in the race, this strategy worked well - and I had no spasms at all.
+As the day wore on the thermometer drifted upwards, it wasn't a stonking hot day, but it certainly wasn't cool. As the sun got to me in the ONER I had decided to run with a peak-cap, this was deployed to some success. Post Box Hill the average pace was set to go down, but as there were many rolling hills, pacing became a balancing act between stomping the steep hills, running the soft hills and running slightly quicker on the flats/downhill - joy! Unlike the ONER where I ended up with quad spasms after 35 km, I didn't storm down the hills and instead ran moderately quicker to conserve the quads for later in the race, this strategy worked well - and I had no spasms at all.
 
-As we pulled into CP 5 (Reigate Hill) Sam mentioned that he was feeling the pace/heat a bit and had slightly swollen fingers. In the Oner Sam had an upset stomach and to combat this he had opted to run with water+food only. I had stuck to my previous fueling strategy but had removed most processed sugar, which seemed to cause highs/lows and a sore stomach later in race. As we refueled at the aid station, Sam asked about his fingers. It was suggested he was low on salt/electrolytes - probably true, and given a salt tablet which he dutifully swallowed. We stocked up on water and snacks and began walking. 100m from the aid station Sam bent over and had an almighty chunder - it lasted  a good minute.
+As we pulled into CP 5 (Reigate Hill) Sam mentioned that he was feeling the pace/heat a bit and had slightly swollen fingers. In the ONER Sam had an upset stomach and to combat this he had opted to run with water+food only. I had stuck to my previous fueling strategy but had removed most processed sugar, which seemed to cause highs/lows and a sore stomach later in race. As we refueled at the aid station, Sam asked about his fingers. It was suggested he was low on salt/electrolytes - probably true, and given a salt tablet which he dutifully swallowed. We stocked up on water and snacks and began walking. 100m from the aid station Sam bent over and had an almighty chunder - it lasted  a good minute.
 
 > First rule of running club: Don't try anything new on race day!
 
@@ -306,7 +498,7 @@ Helen was unlucky for 2 reasons:
 1. Not 5 minutes out of the CP and we both walked into a very deep puddle and got rather wet shoes, argh!
 1. The Hills.
 
-Box Hill may be more famous, but the hills in Detling are unrelenting. False horizons and steep steps chipped away at our confidence. As with the Oner the downhills and  uphills are not easily runnable, just too steep and slippery for anyone to seriously tackle with speed at 1am. So we ground it out, running where we could, stomping where we had to.
+Box Hill may be more famous, but the hills in Detling are unrelenting. False horizons and steep steps chipped away at our confidence. As with the ONER the downhills and  uphills are not easily runnable, just too steep and slippery for anyone to seriously tackle with speed at 1am. So we ground it out, running where we could, stomping where we had to.
 
 Etched in my memory is a section where Helen and I emerged from a steep incline, the path opened up and we surged ahead, enjoying 20 minutes of pure fast pace running. Race experiences like this remind me of how surreal and beautiful ultra-distance trail running can be.
 
@@ -443,7 +635,7 @@ Thanks to my amazing pacing team and the fantastic Centurion team for a memorabl
 FIN.
 </pre>
 
-## Oner
+## The ONER Ultra Trail Run
 
 ***
 
@@ -476,7 +668,7 @@ Having finished the 46 mile (75 km) <a href="http://www.beaconsultra.com/" targe
 
 > TLDR: Eat more, drink more, use electrolytes and smother yourself in bodyglide.
 
-Pain is quickly forgotten, and it wasn't long before I dropped a somewhat (very) drunken text to my friend Sam inquiring if he would be interested in running two ultra races in 2017, the Oner being a qualifier for the other. Sam replied with *maybe* and I forwarded him my completed sign up email as encouragement. A few weeks later he came to his senses (got equally drunk) and signed-up for both runs too.
+Pain is quickly forgotten, and it wasn't long before I dropped a somewhat (very) drunken text to my friend Sam inquiring if he would be interested in running two ultra races in 2017, the ONER being a qualifier for the other. Sam replied with *maybe* and I forwarded him my completed sign up email as encouragement. A few weeks later he came to his senses (got equally drunk) and signed-up for both runs too.
 
 Fast forward a few months and it was time to put on our running shoes and trek out to my old rock climbing haunting ground, <a href="https://www.ukclimbing.com/logbook/book.php?id=19" target="_blank">Swanage</a>, and do battle with some slightly less vertical pitches.
 
@@ -543,7 +735,7 @@ The net result was the below race-plan completed the night before the run:
 
 #### Pre-start
 
-The Brutal team put together a very well oiled machine, kit-check, pre-race-brief and all that jazz that was as efficient and as painless as could be. A few nervous laughs and the 63 Oner runners and 6 Half-Oner runners crowded into provided mini-vans for the journey from Race-HQ/Half-way to the start. The long-drive ride was intimidating; nearly an hour drive to the start! In our bus it became very apparent that Sam and I were less experienced at 100km+ runs than our fellow passengers - joy.
+The Brutal team put together a very well oiled machine, kit-check, pre-race-brief and all that jazz that was as efficient and as painless as could be. A few nervous laughs and the 63 ONER runners and 6 Half-ONER runners crowded into provided mini-vans for the journey from Race-HQ/Half-way to the start. The long-drive ride was intimidating; nearly an hour drive to the start! In our bus it became very apparent that Sam and I were less experienced at 100km+ runs than our fellow passengers - joy.
 
 <div class="row">
   <div class="col-md-12">
@@ -623,9 +815,9 @@ Your browser does not support the video tag.
 
 After a light bite of pasta and some flapjacks we hit the trail to do the island loop. The race stewards indicated we could get around in daylight/dusk and as it was a lot cooler we decided to see what we could do. Not 10 minutes out of HQ Sam dropped a bombshell. He would most likely drop out at CP6, he'd been feeling sick for the past 10-15km and he didn't think he'd be able to finish. I just told him to see how he felt and make up his mind when we get back to CP6 (Note from Sam: what Ian actually said was "Hahahah no *expletive* way are you dropping out", end of discussion). After another 10 minutes Sam dropped off to visit Mother Nature, I pressed on and he caught up with me a few minutes later. He mentioned he had a little vomit and felt a bit better - too much sugar and other junk. From that point forward Sam switched to water, he wasn't used to running with electrolytes. We hit CP5, grabbed a cheese and pickle sandwich (delicious) and he started to feel better.
 
-Now that we had got over that little challenge we decided to crank the pace up a bit. We really hit our stride and caught up with one of the runners we raced with before the end of the first marathon, Jeff. We decided to run together for a little bit and Jeff was telling us this was his second Oner attempt having been timed out at CP8 last year. Midnight would also mark his birthday! As we ran past a few crags I had climbed in the past I mentioned the routes I did, we were really hitting our stride and making fantastic progress. We had slipped 15 minutes behind our original check point target, but we were catching up rapidly. 
+Now that we had got over that little challenge we decided to crank the pace up a bit. We really hit our stride and caught up with one of the runners we raced with before the end of the first marathon, Jeff. We decided to run together for a little bit and Jeff was telling us this was his second ONER attempt having been timed out at CP8 last year. Midnight would also mark his birthday! As we ran past a few crags I had climbed in the past I mentioned the routes I did, we were really hitting our stride and making fantastic progress. We had slipped 15 minutes behind our original check point target, but we were catching up rapidly. 
 
-As we admired the high cliffs on our left we began to look for the sharp left turn that cuts back past the old prison and back into town. At this point I will mention we were using a mobile phone with the Oner GPX path loaded up. A mixture of GPS and the path allowed us to pretty much stay on track, but we also had the oner maps and a compass for emergencies. We hit the location of the turn, according to the GPS, but no turn was in sight. We ran on for a bit, thinking the GPS might be inaccurate, but no obvious turn materialised. We must have missed the left turning, but where was it? All we had seen for the last km or so was high cliffs. We started making our way back to the left turn and we collected 3 other lost runners. Though using GPS and the GPX file to navigate we hadn't bothered downloading the actual terrain or satellite maps. In a moment of clarity (we were about 8 hours into this thing), I flipped the phone to satellite mode. Everything became clear. The path we had been running along had been wrong for over a km, the correct path was atop the cliffs! The line from the GPX file was not fine enough as to distinguish the 15m difference in paths which effectively ran side-by-side. Two of the other runners made an attempt to scale the bush and find a direct path up the cliff but this didn't feel right. Tracing back a km or so, right next to the crags I had climbed, was the proper route up to the top. A snap decision was made - we would run the km or so back. I was very annoyed with myself for this massive diversion and waste of energy. We were now having to wear head torches and some of our enthusiasm had been dashed. The rest of this leg back to HQ was uneventful, we made one other error - not stopping at a chippy to pick up a burger or pizza - but we got back to HQ well within cut-off.
+As we admired the high cliffs on our left we began to look for the sharp left turn that cuts back past the old prison and back into town. At this point I will mention we were using a mobile phone with the ONER GPX path loaded up. A mixture of GPS and the path allowed us to pretty much stay on track, but we also had the oner maps and a compass for emergencies. We hit the location of the turn, according to the GPS, but no turn was in sight. We ran on for a bit, thinking the GPS might be inaccurate, but no obvious turn materialised. We must have missed the left turning, but where was it? All we had seen for the last km or so was high cliffs. We started making our way back to the left turn and we collected 3 other lost runners. Though using GPS and the GPX file to navigate we hadn't bothered downloading the actual terrain or satellite maps. In a moment of clarity (we were about 8 hours into this thing), I flipped the phone to satellite mode. Everything became clear. The path we had been running along had been wrong for over a km, the correct path was atop the cliffs! The line from the GPX file was not fine enough as to distinguish the 15m difference in paths which effectively ran side-by-side. Two of the other runners made an attempt to scale the bush and find a direct path up the cliff but this didn't feel right. Tracing back a km or so, right next to the crags I had climbed, was the proper route up to the top. A snap decision was made - we would run the km or so back. I was very annoyed with myself for this massive diversion and waste of energy. We were now having to wear head torches and some of our enthusiasm had been dashed. The rest of this leg back to HQ was uneventful, we made one other error - not stopping at a chippy to pick up a burger or pizza - but we got back to HQ well within cut-off.
 
 Over 40 minutes and an extra 2.2km had been run. Things were going to get tight.
 The only good news was Sam was feeling good. A quick pit stop, some soup, a change of shoes, 20mins or so and we were back on the road!
@@ -676,9 +868,9 @@ The second thing was that we had a quick chat with the other two runners we had 
 
 The four of us set off on a mission to finish this thing. We hadn't come this far to not finish. The second runner, who introduced himself as Rory, warned us that there was a painful steep staircase straight off the bat. The first runner, Dave, kept mum and had his poles at the ready. We started up the stairs, each runner battling his own demons to make the climb. Dave was battling and his legs did not want to ascend the hills. After we reached the top of the staircase we looked back and Dave was no longer in view. Rory shouted down the hill but we heard no reply. We decided to press on. Sadly our expectation was that Dave's race was over, the cut-off times were now quite tight and would require a massive mental commitment to finish. We all hoped that we would see him at the finish, but acknowledged this was highly unlikely.
 
-We had never met Rory before but he regaled us with his previous Oner attempt where a mistimed snooze cost him the finish, a reminder of how keeping up a good consistent time was imperative. The three of us worked like a machine pushing through the check-point. Rory had a slightly different running style to Sam and I but we made it work for 90% of the CP, he pulled away towards the end as we couldn't quite keep up, but met him again at CP10 for a bite to eat.
+We had never met Rory before but he regaled us with his previous ONER attempt where a mistimed snooze cost him the finish, a reminder of how keeping up a good consistent time was imperative. The three of us worked like a machine pushing through the check-point. Rory had a slightly different running style to Sam and I but we made it work for 90% of the CP, he pulled away towards the end as we couldn't quite keep up, but met him again at CP10 for a bite to eat.
 
-The Oner always has something up it's sleeve and is quite relentless with giving and then taking away. For example, we had got used to each check-point being about 12kms, after Rory pulled away we checked our time sheet and discovered this checkpoint to only be 9.6km long! We were only 500m away, the lighthouse! A few minutes later, after turning a corner, we found that between us and the end was a massive descent and then a painful staircase. A minute's silence and we begrudgingly made our way down-and-up.
+The ONER always has something up it's sleeve and is quite relentless with giving and then taking away. For example, we had got used to each check-point being about 12kms, after Rory pulled away we checked our time sheet and discovered this checkpoint to only be 9.6km long! We were only 500m away, the lighthouse! A few minutes later, after turning a corner, we found that between us and the end was a massive descent and then a painful staircase. A minute's silence and we begrudgingly made our way down-and-up.
 
 ***
 
@@ -688,7 +880,7 @@ As we pulled away from the second to last check-point we started making a few ca
 
 What followed was some of the most intense mental control where we pushed harder than ever before to crush this 11.1km section. We managed to catch-up and overtake around 10 runners and really upped the ante to make sure we would finish. The net result was hitting CP11 with over a 2.5 hour buffer to do 12.6km. After running for 21 hours non-stop, this seemed like enough to bring this home.
 
-The last part of the run was a mix of strolling, running, and avoiding naked men on the beach. Given we had given ourselves around a 50% chance of finishing we were pretty chuffed. Running the bridge with everyone clapping and being handed the Oner medal a large relief swept over me.
+The last part of the run was a mix of strolling, running, and avoiding naked men on the beach. Given we had given ourselves around a 50% chance of finishing we were pretty chuffed. Running the bridge with everyone clapping and being handed the ONER medal a large relief swept over me.
 
 Fin.
 
