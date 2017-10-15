@@ -53,9 +53,9 @@ I should also mention I put a lot of effort into hydration in the build up to th
   <div class="col-md-12">
     <div class="thumbnail">
       <a href="/imgs/yorkshire_2017/pre-race.jpg">
-        <img src="/imgs/yorkshire_2017/pre-race.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <img src="/imgs/yorkshire_2017/pre-race.jpg" alt="Kit ready the day before!" style="width:55%">
         <div class="caption text-center">
-          <p>24 hours FTW</p>
+          <p>Kit ready the day before!</p>
         </div>
       </a>
     </div>
@@ -80,9 +80,9 @@ York isn't a huge marathon and I found myself in #1 pen with the local elites an
   <div class="col-md-12">
     <div class="thumbnail">
       <a href="/imgs/yorkshire_2017/before.jpg">
-        <img src="/imgs/yorkshire_2017/before.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <img src="/imgs/yorkshire_2017/before.jpg" alt="Ready to go" style="width:55%">
         <div class="caption text-center">
-          <p>24 hours FTW</p>
+          <p>Ready to go</p>
         </div>
       </a>
     </div>
@@ -129,9 +129,9 @@ After picking up our bags Andy headed off to go meet his wife and I retired to t
   <div class="col-md-12">
     <div class="thumbnail">
       <a href="/imgs/yorkshire_2017/finished.jpg">
-        <img src="/imgs/yorkshire_2017/finished.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <img src="/imgs/yorkshire_2017/finished.jpg" alt="Finished - and enjoying the sun" style="width:55%">
         <div class="caption text-center">
-          <p>24 hours FTW</p>
+          <p>Finished - and enjoying the sun</p>
         </div>
       </a>
     </div>
