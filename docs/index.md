@@ -1,6 +1,6 @@
 # Running 2017
 
-## Yorkshire Marathon
+## Yorkshire Marathon - 2017
 
 ***
 
@@ -138,6 +138,19 @@ After picking up our bags Andy headed off to go meet his wife and I retired to t
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">
+      <a href="/imgs/yorkshire_2017/when_in_york.jpg">
+        <img src="/imgs/yorkshire_2017/when_in_york.jpg" alt="When in Yorkshire!" style="width:55%">
+        <div class="caption text-center">
+          <p>When in Yorkshire!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
 ***
 
 #### Post-race
@@ -192,7 +205,7 @@ Only two more proper races left in 2017, the [Brecon Beacon Ultra (76 km)](http:
   </div>
 </div>
 
-## North Downs Way 100
+## North Downs Way 100 - 2017
 
 ***
 
@@ -635,7 +648,7 @@ Thanks to my amazing pacing team and the fantastic Centurion team for a memorabl
 FIN.
 </pre>
 
-## The ONER Ultra Trail Run
+## The ONER Ultra Trail Run - 2017
 
 ***
 
