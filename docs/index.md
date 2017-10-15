@@ -186,9 +186,9 @@ Only two more proper races left in 2017, the [Brecon Beacon Ultra (76 km)](http:
   <div class="col-md-12">
     <div class="thumbnail">
       <a href="/imgs/yorkshire_2017/waiting.jpg">
-        <img src="/imgs/yorkshire_2017/waiting.jpg" alt="24 Hour Pace Chart" style="width:55%">
+        <img src="/imgs/yorkshire_2017/waiting.jpg" alt="Waiting" style="width:55%">
         <div class="caption text-center">
-          <p>24 hours FTW</p>
+          <p>Waiting!</p>
         </div>
       </a>
     </div>
