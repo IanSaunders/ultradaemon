@@ -20,7 +20,7 @@
 | C |Finish before dark! | *Yes* |
 
 ### Training
-After recovering from the Yorkshire Marathon, there were only 4 weeks of training before Brecon. As I was still feeling pretty fit from the Marathon cycle, and as such I opted to maintain fitness and be cautious to avoid injury. As usual I ended up doing a round trip London -> San Francisco -> New York -> London in the middle of the 28 day training cycle, less than ideal due to timezones, jet-lag and wasted time on a plane! Thankfully, I was back in the UK a week before the race, so wasn't running with jet lag like in York. I had planned a couple 35km+ runs, but due to lack of time decided that the marathon would have to count as my long run(s).
+After recovering from the Yorkshire Marathon, there were only 4 weeks of training before Brecon. I was still feeling pretty fit from the Marathon cycle, and as such I opted to maintain fitness and be cautious to avoid injury. As usual I ended up doing a round trip London -> San Francisco -> New York -> London in the middle of the 28 day training cycle, less than ideal due to timezones, jet-lag and wasted time on a plane! Thankfully, I was back in the UK a week before the race, so wasn't running with jet lag like in York. I had planned a couple 35km+ runs, but due to lack of time decided that the marathon would have to count as my long run(s).
 
 ### Race strategy
 
