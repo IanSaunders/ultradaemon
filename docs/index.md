@@ -59,7 +59,7 @@ It's worth mentioning that I had given up the aim for a top-10 finish at this po
 
 #### Loop 2
 
-After leaving the point aid-station I pushed hard again on the canal path. I had been eating and nibbling throughout the race but I was starting to feel a bit out of sorts. I decided I was low on nutrition and ate a trusty Gu gel. I did this just as I was about to hit the main hill for the second time.
+After leaving the aid-station I pushed hard again on the canal path. I had been eating and nibbling throughout the race but I was starting to feel a bit out of sorts. I decided I was low on nutrition and ate a trusty Gu gel. I did this just as I was about to hit the main hill for the second time.
 
 Perhaps I should have taken the gel earlier, perhaps I should have eaten more solid foods, but as soon as the gel hit my stomach I had waves of nausea engulf me and stomach cramps to boot. I kept pushing up the hill, but with far less vigor than on loop 1. This was the last time I saw Michelle until the finish. As I went higher, the pain increased. My 8 hour goal was slowly slipping away, had I gone out too fast on the first lap? As the intensity of the pain grew, I knew this was it - my first DNF. I would quit at the next aid station. I didn't _have_ to finish this race, it wasn't a qualifier for anything. I didn't even have any friends running with me. The decision was made.
 
