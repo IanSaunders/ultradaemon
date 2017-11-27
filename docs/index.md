@@ -51,7 +51,7 @@ The start of the race is very runnable as it is on a hard and flat canal path, I
 
 Form the steep hill there is a quick downhill section, my favorite, it was during this downhill section that I overtook our hill runner - guess I was right about going out too hard! Shortly after the downhill the trail ascends once more. I decided to err on the side of caution and walk the steeper bits of the slope. Low-and-behold, the hill-runner overtook me - they were running the hills again! After hitting the flats I caught up and had a chat with this relentless ascender. Turns-out the hill-runner was Michelle Maxwell, the female winner of the 2016 Brecon Beacon race and was also the winner of the 2017 NDW50. She had finished the race in roughly 8 hours last year and was on a similar trajectory this year. I decided that if I was to stick even mildly close to Michelle I would have a decent chance of finishing around 8 hours. I also made the decision to be consistent and not to run any hills :)
 
-The rest of the first loop went pretty much according to plan, Michelle and a few other runners would pull ahead on the up-hill sections, and I would hunt them down on the downhills. I had a glorious descent after the final major uphill section and was bang on target.
+The rest of the first loop went pretty much according to plan, Michelle and a few other runners would pull ahead on the up-hill sections, and I would hunt them down on the downhills. I had a glorious descent after the final major uphill section, Pen Y Fan, and was bang on target.
 
 1st Loop completed in 3:45.
 
