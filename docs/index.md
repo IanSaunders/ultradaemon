@@ -42,7 +42,7 @@ Living only 15mins away I was able to have a decent sleep, meet up with the runn
 
 I had put a < 1:28 finish and got put in the A pen, got to walk around and do a few strides before the run.
 
-My initial intention was to go out at around a 4km/min pace which would give me a < 1:25 finish. As I lined up, the words of a friend run in my ear, "Why not 1:20?". And I guess, why not? What's the worst that could happen - I was pretty certain I could just reduce the pace if things got a bit uncomfortable.
+My initial intention was to go out at around a 4km/min pace which would give me a < 1:25 finish. As I lined up, the words of a friend rung in my ear, "Why not 1:20?". And I guess, why not? What's the worst that could happen - I was pretty certain I could just reduce the pace if things got a bit uncomfortable.
 
 The race starts with an ever increase heart-beat which then descends into a fog horn start, and we were off!
 
