@@ -44,7 +44,7 @@ I had put a < 1:28 finish and got put in the A pen, got to walk around and do a 
 
 My initial intention was to go out at around a 4km/min pace which would give me a < 1:25 finish. As I lined up, the words of a friend rung in my ear, "Why not 1:20?". And I guess, why not? What's the worst that could happen - I was pretty certain I could just reduce the pace if things got a bit uncomfortable.
 
-The race starts with an ever increase heart-beat which then descends into a fog horn start, and we were off!
+The race starts with an ever increasing heart-beat which then descends into a fog horn start, and we were off!
 
 The first 5kms or so were pretty much flat, with a slight up and down. I stuck to the game plan of 3:50m/km and things were flowing nicely. A benefit of wearing the club colours was an occasional random supporter in the crowd! There was limited wind, but I religiously tucked in behind every person I could, I have no shame... A fun part of this section was running through the Limehouse link tunnel, usually this is reserved for cars so was a little novel descending and then ascending the link. 
 
