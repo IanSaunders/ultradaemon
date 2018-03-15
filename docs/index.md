@@ -5,7 +5,7 @@
 
 ### Race information
 * **What?** London Big Half Marathon
-* **When?** March 4, 2017
+* **When?** March 4, 2018
 * **How far?** 13.1 miles / 21,098 miles
 * **Where?** London, UK
 * **Website:** [https://www.thebighalf.co.uk/](https://www.thebighalf.co.uk/)
