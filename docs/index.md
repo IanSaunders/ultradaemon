@@ -18,49 +18,6 @@
 | B | < 1:25 | *Yes* |
 | C | PB (< 1:29:30) | *Yes* |
 
-### Pictures
-
-<div class="row">
-  <div class="col-md-12">
-    <div class="thumbnail">  
-      <a href="/imgs/bighalf_2018/before.jpeg">
-        <img src="/imgs/bighalf_2018/before.jpeg" alt="Lovely Morning to Run" style="width:55%">
-        <div class="caption text-center">
-          <p>Lovely Morning to Run</p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
-
-<div class="row">
-  <div class="col-md-12">
-    <div class="thumbnail">  
-      <a href="/imgs/bighalf_2018/middle.jpeg">
-        <img src="/imgs/bighalf_2018/middle.jpeg" alt="Running Friends!" style="width:55%">
-        <div class="caption text-center">
-          <p>Thanks running friends!</p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
-
-
-<div class="row">
-  <div class="col-md-12">
-    <div class="thumbnail">  
-      <a href="/imgs/bighalf_2018/end.jpeg">
-        <img src="/imgs/bighalf_2018/end.jpeg" alt="Pushing hard at the end!" style="width:55%">
-        <div class="caption text-center">
-          <p>Pushing hard at the end!</p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
 
 ### Training
 After York Marathon and Brecon Beacon Ultra I took a break from focusing too hard on running, and just ran for enjoyment for a couple months. After a busy racing calendar in 2017 and a busy one in 2018 I needed to just pause and remember the fun of getting out. I was lucky enough to visit Burma and run around the rain-forest for a couple weeks, so when I got back to London and San Francisco, I was ready to hit the track and push.
@@ -130,6 +87,51 @@ After the race I met up with a few of the runners from LCAC and had a good chat 
 |   20   | 3:45   |
 |   21   | 3:25   |
 |   22   | 9s     |
+
+
+### Pictures
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">  
+      <a href="/imgs/bighalf_2018/before.jpeg">
+        <img src="/imgs/bighalf_2018/before.jpeg" alt="Lovely Morning to Run" style="width:55%">
+        <div class="caption text-center">
+          <p>Lovely Morning to Run</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">  
+      <a href="/imgs/bighalf_2018/middle.jpeg">
+        <img src="/imgs/bighalf_2018/middle.jpeg" alt="Running Friends!" style="width:55%">
+        <div class="caption text-center">
+          <p>Thanks running friends!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">  
+      <a href="/imgs/bighalf_2018/end.jpeg">
+        <img src="/imgs/bighalf_2018/end.jpeg" alt="Pushing hard at the end!" style="width:55%">
+        <div class="caption text-center">
+          <p>Pushing hard at the end!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
 
 ***
 
