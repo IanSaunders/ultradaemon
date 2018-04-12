@@ -39,7 +39,7 @@ At Thursday lunch time, we met up with one of the three pacers Karl had gracious
 
 The weather report was now showing rainy conditions for parts of Saturday. I foolishly forgot to pack rain gear, so we popped to the shops to grab a pair of trousers and a rain jacket.
 
-Finally, we checked out the local running shop with an attached beer store (Runologie - and yes, really). The big gossip of the night was about Gordy Ainsleigh and Jim Green running the race, and how it was an honour to get on the course with such ultra running legends.
+Finally, we checked out the local running shop with an attached beer store (Runologie - and yes, really). The big gossip of the night was about Gordy Ainsleigh and Tom Green running the race, and how it was an honour to get on the course with such ultra running legends.
 
 Friday night. Free pasta party, check-in and the opportunity to say hello to Gordy. My feet felt UMSTEADy and ready to get running.
 
