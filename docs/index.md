@@ -10,6 +10,7 @@
 * **Website:** [umstead100](http://www.umstead100.org/)
 * **Strava activity (Pt1):** [https://www.strava.com/activities/1495332612](https://www.strava.com/activities/1495332612)
 * **Strava activity (Pt2):** [https://www.strava.com/activities/1501493033](https://www.strava.com/activities/1501493033)
+* **Blog** https://ultradaemon.com/#umstead-100-raleigh-north-carolina-2018
 
 ### Goals
 | Goal | Description | Completed? |
