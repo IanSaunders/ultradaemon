@@ -97,7 +97,7 @@ It was with a sense of jubilation that I pulled up to the finish and crossed the
 
 ### Post-race
 
-I was mildly in shock from the cold and exertion so grabbed some food, put more clothes on and sat in front of the fire. Had a few conversations with other runners. It had been a pretty brutal day and claimed a large number of DNFs; there were a more than a few stories of shivering cold runners.
+I was mildly in shock from the cold and exertion so grabbed some food, put more clothes on and sat in front of the fire. Had a few conversations with other runners. It had been a pretty brutal day and claimed a large number of DNFs; there were more than a few stories of shivering cold runners.
 
 A short while later, we packed up and headed home for a well deserved rest.
 
