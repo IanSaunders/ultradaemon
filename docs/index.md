@@ -17,7 +17,7 @@
 |------|-------------|------------|
 | A | < 19 hours and/or finish in the top 10 | *No* |
 | B | <  21 hours (Spartathlon Qualifying Time) | *Yes* |
-| C | < 24 hours (Who want's to run for more than a day?) | *Yes* |
+| C | < 24 hours (Who wants to run for more than a day?) | *Yes* |
 
 ### Training
 
