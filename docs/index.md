@@ -64,7 +64,7 @@ Unlike some ultra races, UMSTEAD doesn’t have an extensive mandatory kit list,
 
 The first half of lap 4 was pretty glorious running. I was pushing hard but really enjoying the race. I ran past Gordie who was wearing only a pair of bright pink/green running shorts and saw Tom Green pushing along steady and strong.
 
-Though the course is a loop, there is an out and back section which forms a T junction. This allowed a rare opportunity to see the race leaders up close and personal. I got to enjoy some extremely focused and powerful running from X, Y and Z. Z had the biggest smile on his face and always said hey as we passed, a true gentleman!
+Though the course is a loop, there is an out and back section which forms a T junction. This allowed a rare opportunity to see the race leaders up close and personal. I got to enjoy some extremely focused and powerful running from Olivier Leblond, Jim Sweeney and Matthew Urbanski. Matthew Urbanski had the biggest smile on his face and always said hey as we passed, a true gentleman!
 
 As I hit 75 km (with 5k to go on that loop) the temperature decided to mix it up and drop the F. I don’t know the exact change, but I went from being comfortably wet to borderline hypothermic. My hands started turning a little blue and I upped the pace and ran hills to keep warm. I pulled up to the HQ and this time went into the main cabin to get some TLC.
 
