@@ -39,9 +39,9 @@ At Thursday lunch time, we met up with one of the three pacers Karl had gracious
 
 The weather report was now showing rainy conditions for parts of Saturday. I foolishly forgot to pack rain gear, so we popped to the shops to grab a pair of trousers and a rain jacket.
 
-Finally, we checked out the local running shop with an attached beer store (Runologie - and yes, really). The big gossip of the night was about Gordie Ainsleigh and Jim Green running the race, and how it was an honour to get on the course with such ultra running legends.
+Finally, we checked out the local running shop with an attached beer store (Runologie - and yes, really). The big gossip of the night was about Gordy Ainsleigh and Jim Green running the race, and how it was an honour to get on the course with such ultra running legends.
 
-Friday night. Free pasta party, check-in and the opportunity to say hello to Gordie. My feet felt UMSTEADy and ready to get running.
+Friday night. Free pasta party, check-in and the opportunity to say hello to Gordy. My feet felt UMSTEADy and ready to get running.
 
 ### Race
 
@@ -62,7 +62,7 @@ Unlike some ultra races, UMSTEAD doesn’t have an extensive mandatory kit list,
 
 #### Lap 4
 
-The first half of lap 4 was pretty glorious running. I was pushing hard but really enjoying the race. I ran past Gordie who was wearing only a pair of bright pink/green running shorts and saw Tom Green pushing along steady and strong.
+The first half of lap 4 was pretty glorious running. I was pushing hard but really enjoying the race. I ran past Gordy who was wearing only a pair of bright pink/green running shorts and saw Tom Green pushing along steady and strong.
 
 Though the course is a loop, there is an out and back section which forms a T junction. This allowed a rare opportunity to see the race leaders up close and personal. I got to enjoy some extremely focused and powerful running from Olivier Leblond, Jim Sweeney and Matthew Urbanski. Matthew had the biggest smile on his face and always said hey as we passed, a true gentleman!
 
