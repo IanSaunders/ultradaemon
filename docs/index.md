@@ -185,7 +185,6 @@ Question: does anyone know who was leading the race for the first few laps? He w
 
 
 
-
 <div class="row">
   <div class="col-md-12">
     <div class="thumbnail">  
@@ -193,6 +192,19 @@ Question: does anyone know who was leading the race for the first few laps? He w
         <img src="/imgs/umstead_2018/running_into_aid.jpg" alt="Running into the aid station" style="width:55%">
         <div class="caption text-center">
           <p>Running into the aid station</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">  
+      <a href="/imgs/umstead_2018/gordy_ainsleigh.jpg">
+        <img src="/imgs/umstead_2018/gordy_ainsleigh.jpg" alt="Hanging out with Gordy" style="width:55%">
+        <div class="caption text-center">
+          <p>Hanging out with Gordy</p>
         </div>
       </a>
     </div>
