@@ -212,19 +212,6 @@ Question: does anyone know who was leading the race for the first few laps? He w
 </div>
 
 
-### Splits
-
-| Miles   |  Lap |  Time     |
-|-------|------|-----------|
-| 12.50 |  1   |  02:06:36 |
-| 25.00 |  2   |  04:19:51 |
-| 37.50 |  3   |  06:29:39 |
-| 50.00 |  4   |  08:52:15 |
-| 62.50 |  5   |  11:45:44 |
-| 75.00 |  6   |  14:20:29 |
-| 87.50 |  7   |  19:14:02 |
-| 100.00   |  8   |  20:36:50 |
-
 ## Big Half, London - 2018
 
 ### Race information
