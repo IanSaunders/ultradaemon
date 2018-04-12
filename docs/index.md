@@ -120,7 +120,7 @@ Question: does anyone know who was leading the race for the first few laps? He w
 | 50.00 |  4   |  08:52:15 |
 | 62.50 |  5   |  11:45:44 |
 | 75.00 |  6   |  14:20:29 |
-| 87.50 |  7   |  19:14:02 |
+| 87.50 |  7   |  17:17:19 |
 | 100.00   |  8   |  20:36:50 |
 
 
