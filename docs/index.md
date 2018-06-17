@@ -88,7 +88,7 @@ Part 3: Home stretch baby!
 
 As I took the hair-pin turn around I said goodbye to my drafting team and upped the pace to just below Marathon pace. In contrast to Yorkshire, I started overtaking people consistently which gave me a great confidence boost. Just for fun we had a little trail section, which my ankles hated, Nike 4%s just aren't made to handle mushy surfaces.
 
-As the field became more spread out I kept the pace up and just tried to slowly pick off one person at a time. During this section we ran back past the rest of the runners. This was great as a few of my friends saw me and shouted out what place I was roghly in (~70th), super cool!
+As the field became more spread out I kept the pace up and just tried to slowly pick off one person at a time. During this section we ran back past the rest of the runners. This was great as a few of my friends saw me and shouted out what place I was roughly in (~70th), super cool!
 
 I drifted past 3rd place woman who was doing a great job and slowly I felt the wheels coming off. Luckily as I pased my next victim, he decided to go with me! This was great, as we worked together for the next 6 kms. There was a silent agreement not to draft off each other, and we ran shoulder-to-shoulder pushing ourselves on. Times like this remind me how the only person you are really racing is yourself.
 
