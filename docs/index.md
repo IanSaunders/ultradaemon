@@ -54,7 +54,7 @@ As with the other Brecon Ultra, this race was billed as self-supported. There wa
 
 ### Race
 
-With a 5 am start, we had an early wake up. The hotel prepared a bacon sandwich to go. of which I ate half for breakfast. I stuffed the other half in my ultra-vest for lunch.
+With a 5 am start, we had an early wake up. The hotel prepared a bacon sandwich to go, of which I ate half for breakfast. I stuffed the other half in my ultra-vest for lunch.
 
 We got to the start with time to spare. As the runners congregated I spotted my front-running "pacer", so slowly crept up behind him - shadow mode engaged.
 
