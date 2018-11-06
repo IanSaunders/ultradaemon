@@ -224,6 +224,8 @@ After eating a ton of food I headed back to the hotel to have a shower. Returnin
 
 Though not an ideal finish, I had managed to achieve both my original A and B goals ;)
 
+* [Bonus video of me being covered in mist](https://www.facebook.com/10peaks/videos/1834749993238045/)
+
 <div class="row">
   <div class="col-md-12">
   <video width="100%" controls>
