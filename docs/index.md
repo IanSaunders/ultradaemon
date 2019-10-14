@@ -354,7 +354,7 @@ What's next? I have TP100 2020 in the UK booked. If I can manage to get a consis
   <div class="col-md-12">
     <div class="thumbnail">  
       <a href="/imgs/bear_2019/100_black_bear.jpg">
-        <img src="/imgs/bear_2019/100_black_bear.jpg" alt="Enjoying a relaxation rock!" style="width:55%">
+        <img src="/imgs/bear_2019/100_black_bear.jpg" alt="Black Bear Club, 30 - 36 Hours" style="width:55%">
         <div class="caption text-center">
           <p>Black Bear Club, 30 - 36 Hours!</p>
         </div>
