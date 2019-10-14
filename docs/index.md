@@ -9,7 +9,7 @@
 * **How far?** 100 miles
 * **Where?** Utah, US
 * **Website:** [https://bear100.com](https://bear100.com)
-* **Strava activity:** [TBC](TBC)
+* **Strava activity:** [https://www.strava.com/activities/2787372601](https://www.strava.com/activities/2787372601)
 * **Finish time:** 33:54:01
 
 ### Goals
