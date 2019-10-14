@@ -350,6 +350,19 @@ As I write these final paragraphs it has been a week since finishing Bear. My le
 
 What's next? I have TP100 2020 in the UK booked. If I can manage to get a consistent training block it would be great to break my PB set at Umstead, but I am still a few months from knowing if that is a reality. At the end of the day, I enjoy getting out there no matter the speed, so will err on the side of caution as I don't fancy taking another year off!
 
+<div class="row">
+  <div class="col-md-12">
+    <div class="thumbnail">  
+      <a href="/imgs/bear_2019/100_black_bear.jpg">
+        <img src="/imgs/bear_2019/100_black_bear.jpg" alt="Enjoying a relaxation rock!" style="width:55%">
+        <div class="caption text-center">
+          <p>Black Bear Club, 30 - 36 Hours!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
 ### Strava
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2787372601/embed/4a25798863cfb95f363c77bc3c6c0225582e3e8e'></iframe>
