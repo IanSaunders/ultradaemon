@@ -17,7 +17,7 @@
 |------|-------------|------------|
 | A | Sub-10 hours | *Yes* |
 | B | New FKT | *Yes* |
-| B | Finish | *Yes* |
+| C | Finish | *Yes* |
 
 ### Pre-attempt
 
