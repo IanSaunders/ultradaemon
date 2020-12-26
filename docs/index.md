@@ -5,7 +5,7 @@
 ### Race information
 
 * **What?** Yorkshire Dales Five Peaks
-* **When?** December 24th, 2002
+* **When?** December 24th, 2020
 * **How far?** 25.5 miles (41 kms)
 * **Where?** North Yorkshire, UK
 * **Website:** [The Five Peaks Challenge](https://thefivepeakschallenge.co.uk/) | [FastestKnownTime.com](https://fastestknowntime.com/route/yorkshire-dales-five-peaks-challenge-united-kingdom)
@@ -153,7 +153,7 @@ Cresting the top of the hill, we re-discovered the snow covered path, and pushed
 
 #### High Seat to Great Shunner Fell <small>(18.5 to 26.6 kms)</small>
 
-From High Seat to we made our way through the snowy top to Gregory Chapel, and then Hugh Seat. Louise put on some spikes which she had brought. This turned out to be an excellent idea, and allowed her to move swiftly on some the ice surfaces. I only had my trail shoes, to avoid slipping I needed to pay extra attention, but managed to keep the pace up regardless. Occasionally we would put our feet into an errant icy-puddle, resetting any warmth we had managed to restore.
+From High Seat to we made our way through the snowy top to Gregory Chapel, and then Hugh Seat. Louise put on some spikes which she had brought. This turned out to be an excellent idea, and allowed her to move swiftly on the ice surfaces. I only had my trail shoes, to avoid slipping I needed to pay extra attention, but managed to keep the pace up regardless. Occasionally we would put our feet into an errant icy-puddle, resetting any warmth we had managed to restore.
 
 There appeared to be a path from Hugh Seat to Shunner Fell, unfortunately with the rain and snow, the path was covered in partially melted snow and was just too boggy to use. This made the process very arduous, cold and slow. The final ascent to the top of Shunner Fell was very snowy, and extremely windy. Thankfully when we arrived at the Cairn, there was some respite from the wind as we hid behind the rocks. 
 
@@ -173,7 +173,7 @@ There appeared to be a path from Hugh Seat to Shunner Fell, unfortunately with t
 
 #### Shunner Fell to Finish <small>(26.6 to 41 kms)</small>
 
-The descent down from Shunner involved dropping into a valley and then popping over a smaller hill, "Tarn Hill". The descent into the valley would be very runnable in the summer, as the path was paved with stony steps. Unfortunately on this weather, the rocks were glazed with ice. This meant proceeding either on the sides of the path, or being willing to risk slipping and bashing your head on the path. 
+The descent down from Shunner involved dropping into a valley and then popping over a smaller hill, "Tarn Hill". The descent into the valley would be very runnable in the summer, as the path was paved with stony steps. Unfortunately with this weather, the rocks were glazed with ice. This meant proceeding either on the sides of the path, or being willing to risk slipping and bashing your head on the path. 
 
 As the sun came down, we pushed our way up the final hill, and then down. The descent involved a little final route finding, but nothing too horrendous. As we arrived back at The Moorcock Inn, we were glad to be finished and finally warm up!
 
