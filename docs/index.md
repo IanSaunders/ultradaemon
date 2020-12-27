@@ -88,7 +88,7 @@ Cresting Swarth Fell we were treated to some glorious views of the Dales, includ
 </div>
 
 #### Wild Boar Fell to High Seat <small>(9 to 18.5 kms)</small>
-After arriving at the Cairn of Wild Board and starting our descent into the valley, the wind picked up. We decided to jog down a few sections to stay warm, banking a few minutes for later! Hitting the valley floor we arrived in a small village with a number of houses, a few wrong turns here and there and we got to the start of the High Seat ascent.
+After arriving at the Wild Boar Cairn we quickly began our descent into the valley, almost straight away the wind picked up. We decided to jog down a few sections to stay warm, banking a few minutes for later! Hitting the valley floor we arrived in a small village with a number of houses, a few wrong turns here and there and we got to the start of the High Seat ascent.
 
 The route up to High Seat was unclear, as most of the fell was covered in snow, the last section would also be a steep (50%+ gradient) slog. As we got started the path quickly fell away, leaving us to navigate again. For some reason, I got a bit disoriented and directed us too far to the west. After re-orienting ourselves, we realized that we would need to go straight up the fell path - it was really steep! As we pushed on we slowly made our way up. I was very glad we would face this as an ascent rather than a descent. Descending would have a far higher risk of slipping and having a bumpy ride down!
 
